@@ -48,3 +48,4 @@ f.close()
 print ("Total fuel requirement is: " + str(totalfuel))
 
 print("End of Program")
+print("End of Program")
