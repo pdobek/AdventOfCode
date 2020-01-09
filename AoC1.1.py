@@ -1,51 +1,61 @@
-def fuel_for_fuel(y):
+import logging
+
+# Setup logging parameters
+logging.basicConfig(
+    level=logging.DEBUG,
+    filename='AOC1.log',
+    filemode= 'w',
+    format='%(name)s - %(levelname)s - %(message)s')
+
+def calculate_fuel_for_fuel(y):
     a = int(0)
     b = int(0)
 
     b = y
     
-    print("We need to calculate fuel needed for fuel amount: " + str(b))
+    logging.debug("We need to calculate fuel needed for fuel amount: " + str(b))
 
     if (b//3-2 < 0):
-        print("No additional fuel required")
+        logging.debug("No additional fuel required")
         return 0
 
     while b > 0:
-        print("Calculating for y: " + str(b))
+        logging.debug("Calculating for y: " + str(b))
         a = a + (b//3-2)
         b = b//3-2
-        print("Fuel needed so far is: " + str(a) + " and remaining fuel to calculate is " + str(b))
+        logging.debug("Fuel needed so far is: " + str(a) + " and remaining fuel to calculate is " + str(b))
         if (b//3-2 < 0):
             b = 0
 
-    print("Total fuel required for " + str(y) + " is " + str(a))
+    logging.debug("Total fuel required for " + str(y) + " is " + str(a))
     return a
 
-f = open("AoC1_1.txt", "r")
+# Open the file of input data
+fuel_input_data = open("AoC1_1.txt", "r")
 
-totalfuel = int(0)
-fuelforfuel = int(0)
+# Declare variables
+total_fuel = int(0)       # Stores total fuel required
+fuel_for_fuel = int(0)     # Stores fuel requirements for the fuel payload
 
-for x in f:
-    print("Calculating fuel required for:"+ x)
+# For each input value, calculate the fuel required, then calculate the fuel required to support the fuel itself
+for distance in fuel_input_data:
+    logging.debug("Calculating fuel required for:" + distance.rstrip())
 
-    newfuel = int(0)
-    newfuel = int(x)//3-2
+    fuel = int(0)
+    new_fuel = int(distance)//3-2
 
-    print("Fuel required for " + str(x) + " is " + str(newfuel))
+    logging.debug("Fuel required for " + distance.rstrip() + " is " + str(new_fuel))
 
-    totalfuel = totalfuel + newfuel
-    print("Total fuel needed so far is: " + str(totalfuel))
+    total_fuel = total_fuel + new_fuel
+    logging.debug("Total fuel needed so far is: " + str(total_fuel))
 
-    fuelforfuel = fuel_for_fuel(newfuel)
+    fuel_for_fuel = calculate_fuel_for_fuel(new_fuel)
 
-    print("Total fuel required for " + str(x) + " is " +str(fuelforfuel + newfuel))
+    logging.debug("Total fuel required for " + distance.rstrip() + " is " + str(fuel_for_fuel + new_fuel))
+    logging.debug("===================================================================")
 
-    totalfuel = totalfuel + fuelforfuel
+    total_fuel = total_fuel + fuel_for_fuel
        
-f.close()
+fuel_input_data.close()
 
-print ("Total fuel requirement is: " + str(totalfuel))
-
-print("End of Program")
-print("End of Program")
+logging.debug("Total fuel requirement is: " + str(total_fuel).rstrip())

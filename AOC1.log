@@ -1,0 +1,2291 @@
+root - DEBUG - Calculating fuel required for:55131
+root - DEBUG - Fuel required for 55131 is 18375
+root - DEBUG - Total fuel needed so far is: 18375
+root - DEBUG - We need to calculate fuel needed for fuel amount: 18375
+root - DEBUG - Calculating for y: 18375
+root - DEBUG - Fuel needed so far is: 6123 and remaining fuel to calculate is 6123
+root - DEBUG - Calculating for y: 6123
+root - DEBUG - Fuel needed so far is: 8162 and remaining fuel to calculate is 2039
+root - DEBUG - Calculating for y: 2039
+root - DEBUG - Fuel needed so far is: 8839 and remaining fuel to calculate is 677
+root - DEBUG - Calculating for y: 677
+root - DEBUG - Fuel needed so far is: 9062 and remaining fuel to calculate is 223
+root - DEBUG - Calculating for y: 223
+root - DEBUG - Fuel needed so far is: 9134 and remaining fuel to calculate is 72
+root - DEBUG - Calculating for y: 72
+root - DEBUG - Fuel needed so far is: 9156 and remaining fuel to calculate is 22
+root - DEBUG - Calculating for y: 22
+root - DEBUG - Fuel needed so far is: 9161 and remaining fuel to calculate is 5
+root - DEBUG - Total fuel required for 18375 is 9161
+root - DEBUG - Total fuel required for 55131 is 27536
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:114008
+root - DEBUG - Fuel required for 114008 is 38000
+root - DEBUG - Total fuel needed so far is: 65536
+root - DEBUG - We need to calculate fuel needed for fuel amount: 38000
+root - DEBUG - Calculating for y: 38000
+root - DEBUG - Fuel needed so far is: 12664 and remaining fuel to calculate is 12664
+root - DEBUG - Calculating for y: 12664
+root - DEBUG - Fuel needed so far is: 16883 and remaining fuel to calculate is 4219
+root - DEBUG - Calculating for y: 4219
+root - DEBUG - Fuel needed so far is: 18287 and remaining fuel to calculate is 1404
+root - DEBUG - Calculating for y: 1404
+root - DEBUG - Fuel needed so far is: 18753 and remaining fuel to calculate is 466
+root - DEBUG - Calculating for y: 466
+root - DEBUG - Fuel needed so far is: 18906 and remaining fuel to calculate is 153
+root - DEBUG - Calculating for y: 153
+root - DEBUG - Fuel needed so far is: 18955 and remaining fuel to calculate is 49
+root - DEBUG - Calculating for y: 49
+root - DEBUG - Fuel needed so far is: 18969 and remaining fuel to calculate is 14
+root - DEBUG - Calculating for y: 14
+root - DEBUG - Fuel needed so far is: 18971 and remaining fuel to calculate is 2
+root - DEBUG - Total fuel required for 38000 is 18971
+root - DEBUG - Total fuel required for 114008 is 56971
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:145297
+root - DEBUG - Fuel required for 145297 is 48430
+root - DEBUG - Total fuel needed so far is: 132937
+root - DEBUG - We need to calculate fuel needed for fuel amount: 48430
+root - DEBUG - Calculating for y: 48430
+root - DEBUG - Fuel needed so far is: 16141 and remaining fuel to calculate is 16141
+root - DEBUG - Calculating for y: 16141
+root - DEBUG - Fuel needed so far is: 21519 and remaining fuel to calculate is 5378
+root - DEBUG - Calculating for y: 5378
+root - DEBUG - Fuel needed so far is: 23309 and remaining fuel to calculate is 1790
+root - DEBUG - Calculating for y: 1790
+root - DEBUG - Fuel needed so far is: 23903 and remaining fuel to calculate is 594
+root - DEBUG - Calculating for y: 594
+root - DEBUG - Fuel needed so far is: 24099 and remaining fuel to calculate is 196
+root - DEBUG - Calculating for y: 196
+root - DEBUG - Fuel needed so far is: 24162 and remaining fuel to calculate is 63
+root - DEBUG - Calculating for y: 63
+root - DEBUG - Fuel needed so far is: 24181 and remaining fuel to calculate is 19
+root - DEBUG - Calculating for y: 19
+root - DEBUG - Fuel needed so far is: 24185 and remaining fuel to calculate is 4
+root - DEBUG - Total fuel required for 48430 is 24185
+root - DEBUG - Total fuel required for 145297 is 72615
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:76135
+root - DEBUG - Fuel required for 76135 is 25376
+root - DEBUG - Total fuel needed so far is: 182498
+root - DEBUG - We need to calculate fuel needed for fuel amount: 25376
+root - DEBUG - Calculating for y: 25376
+root - DEBUG - Fuel needed so far is: 8456 and remaining fuel to calculate is 8456
+root - DEBUG - Calculating for y: 8456
+root - DEBUG - Fuel needed so far is: 11272 and remaining fuel to calculate is 2816
+root - DEBUG - Calculating for y: 2816
+root - DEBUG - Fuel needed so far is: 12208 and remaining fuel to calculate is 936
+root - DEBUG - Calculating for y: 936
+root - DEBUG - Fuel needed so far is: 12518 and remaining fuel to calculate is 310
+root - DEBUG - Calculating for y: 310
+root - DEBUG - Fuel needed so far is: 12619 and remaining fuel to calculate is 101
+root - DEBUG - Calculating for y: 101
+root - DEBUG - Fuel needed so far is: 12650 and remaining fuel to calculate is 31
+root - DEBUG - Calculating for y: 31
+root - DEBUG - Fuel needed so far is: 12658 and remaining fuel to calculate is 8
+root - DEBUG - Calculating for y: 8
+root - DEBUG - Fuel needed so far is: 12658 and remaining fuel to calculate is 0
+root - DEBUG - Total fuel required for 25376 is 12658
+root - DEBUG - Total fuel required for 76135 is 38034
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:50317
+root - DEBUG - Fuel required for 50317 is 16770
+root - DEBUG - Total fuel needed so far is: 211926
+root - DEBUG - We need to calculate fuel needed for fuel amount: 16770
+root - DEBUG - Calculating for y: 16770
+root - DEBUG - Fuel needed so far is: 5588 and remaining fuel to calculate is 5588
+root - DEBUG - Calculating for y: 5588
+root - DEBUG - Fuel needed so far is: 7448 and remaining fuel to calculate is 1860
+root - DEBUG - Calculating for y: 1860
+root - DEBUG - Fuel needed so far is: 8066 and remaining fuel to calculate is 618
+root - DEBUG - Calculating for y: 618
+root - DEBUG - Fuel needed so far is: 8270 and remaining fuel to calculate is 204
+root - DEBUG - Calculating for y: 204
+root - DEBUG - Fuel needed so far is: 8336 and remaining fuel to calculate is 66
+root - DEBUG - Calculating for y: 66
+root - DEBUG - Fuel needed so far is: 8356 and remaining fuel to calculate is 20
+root - DEBUG - Calculating for y: 20
+root - DEBUG - Fuel needed so far is: 8360 and remaining fuel to calculate is 4
+root - DEBUG - Total fuel required for 16770 is 8360
+root - DEBUG - Total fuel required for 50317 is 25130
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:134036
+root - DEBUG - Fuel required for 134036 is 44676
+root - DEBUG - Total fuel needed so far is: 264962
+root - DEBUG - We need to calculate fuel needed for fuel amount: 44676
+root - DEBUG - Calculating for y: 44676
+root - DEBUG - Fuel needed so far is: 14890 and remaining fuel to calculate is 14890
+root - DEBUG - Calculating for y: 14890
+root - DEBUG - Fuel needed so far is: 19851 and remaining fuel to calculate is 4961
+root - DEBUG - Calculating for y: 4961
+root - DEBUG - Fuel needed so far is: 21502 and remaining fuel to calculate is 1651
+root - DEBUG - Calculating for y: 1651
+root - DEBUG - Fuel needed so far is: 22050 and remaining fuel to calculate is 548
+root - DEBUG - Calculating for y: 548
+root - DEBUG - Fuel needed so far is: 22230 and remaining fuel to calculate is 180
+root - DEBUG - Calculating for y: 180
+root - DEBUG - Fuel needed so far is: 22288 and remaining fuel to calculate is 58
+root - DEBUG - Calculating for y: 58
+root - DEBUG - Fuel needed so far is: 22305 and remaining fuel to calculate is 17
+root - DEBUG - Calculating for y: 17
+root - DEBUG - Fuel needed so far is: 22308 and remaining fuel to calculate is 3
+root - DEBUG - Total fuel required for 44676 is 22308
+root - DEBUG - Total fuel required for 134036 is 66984
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:122136
+root - DEBUG - Fuel required for 122136 is 40710
+root - DEBUG - Total fuel needed so far is: 327980
+root - DEBUG - We need to calculate fuel needed for fuel amount: 40710
+root - DEBUG - Calculating for y: 40710
+root - DEBUG - Fuel needed so far is: 13568 and remaining fuel to calculate is 13568
+root - DEBUG - Calculating for y: 13568
+root - DEBUG - Fuel needed so far is: 18088 and remaining fuel to calculate is 4520
+root - DEBUG - Calculating for y: 4520
+root - DEBUG - Fuel needed so far is: 19592 and remaining fuel to calculate is 1504
+root - DEBUG - Calculating for y: 1504
+root - DEBUG - Fuel needed so far is: 20091 and remaining fuel to calculate is 499
+root - DEBUG - Calculating for y: 499
+root - DEBUG - Fuel needed so far is: 20255 and remaining fuel to calculate is 164
+root - DEBUG - Calculating for y: 164
+root - DEBUG - Fuel needed so far is: 20307 and remaining fuel to calculate is 52
+root - DEBUG - Calculating for y: 52
+root - DEBUG - Fuel needed so far is: 20322 and remaining fuel to calculate is 15
+root - DEBUG - Calculating for y: 15
+root - DEBUG - Fuel needed so far is: 20325 and remaining fuel to calculate is 3
+root - DEBUG - Total fuel required for 40710 is 20325
+root - DEBUG - Total fuel required for 122136 is 61035
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:97704
+root - DEBUG - Fuel required for 97704 is 32566
+root - DEBUG - Total fuel needed so far is: 380871
+root - DEBUG - We need to calculate fuel needed for fuel amount: 32566
+root - DEBUG - Calculating for y: 32566
+root - DEBUG - Fuel needed so far is: 10853 and remaining fuel to calculate is 10853
+root - DEBUG - Calculating for y: 10853
+root - DEBUG - Fuel needed so far is: 14468 and remaining fuel to calculate is 3615
+root - DEBUG - Calculating for y: 3615
+root - DEBUG - Fuel needed so far is: 15671 and remaining fuel to calculate is 1203
+root - DEBUG - Calculating for y: 1203
+root - DEBUG - Fuel needed so far is: 16070 and remaining fuel to calculate is 399
+root - DEBUG - Calculating for y: 399
+root - DEBUG - Fuel needed so far is: 16201 and remaining fuel to calculate is 131
+root - DEBUG - Calculating for y: 131
+root - DEBUG - Fuel needed so far is: 16242 and remaining fuel to calculate is 41
+root - DEBUG - Calculating for y: 41
+root - DEBUG - Fuel needed so far is: 16253 and remaining fuel to calculate is 11
+root - DEBUG - Calculating for y: 11
+root - DEBUG - Fuel needed so far is: 16254 and remaining fuel to calculate is 1
+root - DEBUG - Total fuel required for 32566 is 16254
+root - DEBUG - Total fuel required for 97704 is 48820
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:51245
+root - DEBUG - Fuel required for 51245 is 17079
+root - DEBUG - Total fuel needed so far is: 414204
+root - DEBUG - We need to calculate fuel needed for fuel amount: 17079
+root - DEBUG - Calculating for y: 17079
+root - DEBUG - Fuel needed so far is: 5691 and remaining fuel to calculate is 5691
+root - DEBUG - Calculating for y: 5691
+root - DEBUG - Fuel needed so far is: 7586 and remaining fuel to calculate is 1895
+root - DEBUG - Calculating for y: 1895
+root - DEBUG - Fuel needed so far is: 8215 and remaining fuel to calculate is 629
+root - DEBUG - Calculating for y: 629
+root - DEBUG - Fuel needed so far is: 8422 and remaining fuel to calculate is 207
+root - DEBUG - Calculating for y: 207
+root - DEBUG - Fuel needed so far is: 8489 and remaining fuel to calculate is 67
+root - DEBUG - Calculating for y: 67
+root - DEBUG - Fuel needed so far is: 8509 and remaining fuel to calculate is 20
+root - DEBUG - Calculating for y: 20
+root - DEBUG - Fuel needed so far is: 8513 and remaining fuel to calculate is 4
+root - DEBUG - Total fuel required for 17079 is 8513
+root - DEBUG - Total fuel required for 51245 is 25592
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:141732
+root - DEBUG - Fuel required for 141732 is 47242
+root - DEBUG - Total fuel needed so far is: 469959
+root - DEBUG - We need to calculate fuel needed for fuel amount: 47242
+root - DEBUG - Calculating for y: 47242
+root - DEBUG - Fuel needed so far is: 15745 and remaining fuel to calculate is 15745
+root - DEBUG - Calculating for y: 15745
+root - DEBUG - Fuel needed so far is: 20991 and remaining fuel to calculate is 5246
+root - DEBUG - Calculating for y: 5246
+root - DEBUG - Fuel needed so far is: 22737 and remaining fuel to calculate is 1746
+root - DEBUG - Calculating for y: 1746
+root - DEBUG - Fuel needed so far is: 23317 and remaining fuel to calculate is 580
+root - DEBUG - Calculating for y: 580
+root - DEBUG - Fuel needed so far is: 23508 and remaining fuel to calculate is 191
+root - DEBUG - Calculating for y: 191
+root - DEBUG - Fuel needed so far is: 23569 and remaining fuel to calculate is 61
+root - DEBUG - Calculating for y: 61
+root - DEBUG - Fuel needed so far is: 23587 and remaining fuel to calculate is 18
+root - DEBUG - Calculating for y: 18
+root - DEBUG - Fuel needed so far is: 23591 and remaining fuel to calculate is 4
+root - DEBUG - Total fuel required for 47242 is 23591
+root - DEBUG - Total fuel required for 141732 is 70833
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:120427
+root - DEBUG - Fuel required for 120427 is 40140
+root - DEBUG - Total fuel needed so far is: 533690
+root - DEBUG - We need to calculate fuel needed for fuel amount: 40140
+root - DEBUG - Calculating for y: 40140
+root - DEBUG - Fuel needed so far is: 13378 and remaining fuel to calculate is 13378
+root - DEBUG - Calculating for y: 13378
+root - DEBUG - Fuel needed so far is: 17835 and remaining fuel to calculate is 4457
+root - DEBUG - Calculating for y: 4457
+root - DEBUG - Fuel needed so far is: 19318 and remaining fuel to calculate is 1483
+root - DEBUG - Calculating for y: 1483
+root - DEBUG - Fuel needed so far is: 19810 and remaining fuel to calculate is 492
+root - DEBUG - Calculating for y: 492
+root - DEBUG - Fuel needed so far is: 19972 and remaining fuel to calculate is 162
+root - DEBUG - Calculating for y: 162
+root - DEBUG - Fuel needed so far is: 20024 and remaining fuel to calculate is 52
+root - DEBUG - Calculating for y: 52
+root - DEBUG - Fuel needed so far is: 20039 and remaining fuel to calculate is 15
+root - DEBUG - Calculating for y: 15
+root - DEBUG - Fuel needed so far is: 20042 and remaining fuel to calculate is 3
+root - DEBUG - Total fuel required for 40140 is 20042
+root - DEBUG - Total fuel required for 120427 is 60182
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:142020
+root - DEBUG - Fuel required for 142020 is 47338
+root - DEBUG - Total fuel needed so far is: 601070
+root - DEBUG - We need to calculate fuel needed for fuel amount: 47338
+root - DEBUG - Calculating for y: 47338
+root - DEBUG - Fuel needed so far is: 15777 and remaining fuel to calculate is 15777
+root - DEBUG - Calculating for y: 15777
+root - DEBUG - Fuel needed so far is: 21034 and remaining fuel to calculate is 5257
+root - DEBUG - Calculating for y: 5257
+root - DEBUG - Fuel needed so far is: 22784 and remaining fuel to calculate is 1750
+root - DEBUG - Calculating for y: 1750
+root - DEBUG - Fuel needed so far is: 23365 and remaining fuel to calculate is 581
+root - DEBUG - Calculating for y: 581
+root - DEBUG - Fuel needed so far is: 23556 and remaining fuel to calculate is 191
+root - DEBUG - Calculating for y: 191
+root - DEBUG - Fuel needed so far is: 23617 and remaining fuel to calculate is 61
+root - DEBUG - Calculating for y: 61
+root - DEBUG - Fuel needed so far is: 23635 and remaining fuel to calculate is 18
+root - DEBUG - Calculating for y: 18
+root - DEBUG - Fuel needed so far is: 23639 and remaining fuel to calculate is 4
+root - DEBUG - Total fuel required for 47338 is 23639
+root - DEBUG - Total fuel required for 142020 is 70977
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:88166
+root - DEBUG - Fuel required for 88166 is 29386
+root - DEBUG - Total fuel needed so far is: 654095
+root - DEBUG - We need to calculate fuel needed for fuel amount: 29386
+root - DEBUG - Calculating for y: 29386
+root - DEBUG - Fuel needed so far is: 9793 and remaining fuel to calculate is 9793
+root - DEBUG - Calculating for y: 9793
+root - DEBUG - Fuel needed so far is: 13055 and remaining fuel to calculate is 3262
+root - DEBUG - Calculating for y: 3262
+root - DEBUG - Fuel needed so far is: 14140 and remaining fuel to calculate is 1085
+root - DEBUG - Calculating for y: 1085
+root - DEBUG - Fuel needed so far is: 14499 and remaining fuel to calculate is 359
+root - DEBUG - Calculating for y: 359
+root - DEBUG - Fuel needed so far is: 14616 and remaining fuel to calculate is 117
+root - DEBUG - Calculating for y: 117
+root - DEBUG - Fuel needed so far is: 14653 and remaining fuel to calculate is 37
+root - DEBUG - Calculating for y: 37
+root - DEBUG - Fuel needed so far is: 14663 and remaining fuel to calculate is 10
+root - DEBUG - Calculating for y: 10
+root - DEBUG - Fuel needed so far is: 14664 and remaining fuel to calculate is 1
+root - DEBUG - Total fuel required for 29386 is 14664
+root - DEBUG - Total fuel required for 88166 is 44050
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:55313
+root - DEBUG - Fuel required for 55313 is 18435
+root - DEBUG - Total fuel needed so far is: 687194
+root - DEBUG - We need to calculate fuel needed for fuel amount: 18435
+root - DEBUG - Calculating for y: 18435
+root - DEBUG - Fuel needed so far is: 6143 and remaining fuel to calculate is 6143
+root - DEBUG - Calculating for y: 6143
+root - DEBUG - Fuel needed so far is: 8188 and remaining fuel to calculate is 2045
+root - DEBUG - Calculating for y: 2045
+root - DEBUG - Fuel needed so far is: 8867 and remaining fuel to calculate is 679
+root - DEBUG - Calculating for y: 679
+root - DEBUG - Fuel needed so far is: 9091 and remaining fuel to calculate is 224
+root - DEBUG - Calculating for y: 224
+root - DEBUG - Fuel needed so far is: 9163 and remaining fuel to calculate is 72
+root - DEBUG - Calculating for y: 72
+root - DEBUG - Fuel needed so far is: 9185 and remaining fuel to calculate is 22
+root - DEBUG - Calculating for y: 22
+root - DEBUG - Fuel needed so far is: 9190 and remaining fuel to calculate is 5
+root - DEBUG - Total fuel required for 18435 is 9190
+root - DEBUG - Total fuel required for 55313 is 27625
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:110391
+root - DEBUG - Fuel required for 110391 is 36795
+root - DEBUG - Total fuel needed so far is: 733179
+root - DEBUG - We need to calculate fuel needed for fuel amount: 36795
+root - DEBUG - Calculating for y: 36795
+root - DEBUG - Fuel needed so far is: 12263 and remaining fuel to calculate is 12263
+root - DEBUG - Calculating for y: 12263
+root - DEBUG - Fuel needed so far is: 16348 and remaining fuel to calculate is 4085
+root - DEBUG - Calculating for y: 4085
+root - DEBUG - Fuel needed so far is: 17707 and remaining fuel to calculate is 1359
+root - DEBUG - Calculating for y: 1359
+root - DEBUG - Fuel needed so far is: 18158 and remaining fuel to calculate is 451
+root - DEBUG - Calculating for y: 451
+root - DEBUG - Fuel needed so far is: 18306 and remaining fuel to calculate is 148
+root - DEBUG - Calculating for y: 148
+root - DEBUG - Fuel needed so far is: 18353 and remaining fuel to calculate is 47
+root - DEBUG - Calculating for y: 47
+root - DEBUG - Fuel needed so far is: 18366 and remaining fuel to calculate is 13
+root - DEBUG - Calculating for y: 13
+root - DEBUG - Fuel needed so far is: 18368 and remaining fuel to calculate is 2
+root - DEBUG - Total fuel required for 36795 is 18368
+root - DEBUG - Total fuel required for 110391 is 55163
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:112436
+root - DEBUG - Fuel required for 112436 is 37476
+root - DEBUG - Total fuel needed so far is: 789023
+root - DEBUG - We need to calculate fuel needed for fuel amount: 37476
+root - DEBUG - Calculating for y: 37476
+root - DEBUG - Fuel needed so far is: 12490 and remaining fuel to calculate is 12490
+root - DEBUG - Calculating for y: 12490
+root - DEBUG - Fuel needed so far is: 16651 and remaining fuel to calculate is 4161
+root - DEBUG - Calculating for y: 4161
+root - DEBUG - Fuel needed so far is: 18036 and remaining fuel to calculate is 1385
+root - DEBUG - Calculating for y: 1385
+root - DEBUG - Fuel needed so far is: 18495 and remaining fuel to calculate is 459
+root - DEBUG - Calculating for y: 459
+root - DEBUG - Fuel needed so far is: 18646 and remaining fuel to calculate is 151
+root - DEBUG - Calculating for y: 151
+root - DEBUG - Fuel needed so far is: 18694 and remaining fuel to calculate is 48
+root - DEBUG - Calculating for y: 48
+root - DEBUG - Fuel needed so far is: 18708 and remaining fuel to calculate is 14
+root - DEBUG - Calculating for y: 14
+root - DEBUG - Fuel needed so far is: 18710 and remaining fuel to calculate is 2
+root - DEBUG - Total fuel required for 37476 is 18710
+root - DEBUG - Total fuel required for 112436 is 56186
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:78195
+root - DEBUG - Fuel required for 78195 is 26063
+root - DEBUG - Total fuel needed so far is: 833796
+root - DEBUG - We need to calculate fuel needed for fuel amount: 26063
+root - DEBUG - Calculating for y: 26063
+root - DEBUG - Fuel needed so far is: 8685 and remaining fuel to calculate is 8685
+root - DEBUG - Calculating for y: 8685
+root - DEBUG - Fuel needed so far is: 11578 and remaining fuel to calculate is 2893
+root - DEBUG - Calculating for y: 2893
+root - DEBUG - Fuel needed so far is: 12540 and remaining fuel to calculate is 962
+root - DEBUG - Calculating for y: 962
+root - DEBUG - Fuel needed so far is: 12858 and remaining fuel to calculate is 318
+root - DEBUG - Calculating for y: 318
+root - DEBUG - Fuel needed so far is: 12962 and remaining fuel to calculate is 104
+root - DEBUG - Calculating for y: 104
+root - DEBUG - Fuel needed so far is: 12994 and remaining fuel to calculate is 32
+root - DEBUG - Calculating for y: 32
+root - DEBUG - Fuel needed so far is: 13002 and remaining fuel to calculate is 8
+root - DEBUG - Calculating for y: 8
+root - DEBUG - Fuel needed so far is: 13002 and remaining fuel to calculate is 0
+root - DEBUG - Total fuel required for 26063 is 13002
+root - DEBUG - Total fuel required for 78195 is 39065
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:74294
+root - DEBUG - Fuel required for 74294 is 24762
+root - DEBUG - Total fuel needed so far is: 871560
+root - DEBUG - We need to calculate fuel needed for fuel amount: 24762
+root - DEBUG - Calculating for y: 24762
+root - DEBUG - Fuel needed so far is: 8252 and remaining fuel to calculate is 8252
+root - DEBUG - Calculating for y: 8252
+root - DEBUG - Fuel needed so far is: 11000 and remaining fuel to calculate is 2748
+root - DEBUG - Calculating for y: 2748
+root - DEBUG - Fuel needed so far is: 11914 and remaining fuel to calculate is 914
+root - DEBUG - Calculating for y: 914
+root - DEBUG - Fuel needed so far is: 12216 and remaining fuel to calculate is 302
+root - DEBUG - Calculating for y: 302
+root - DEBUG - Fuel needed so far is: 12314 and remaining fuel to calculate is 98
+root - DEBUG - Calculating for y: 98
+root - DEBUG - Fuel needed so far is: 12344 and remaining fuel to calculate is 30
+root - DEBUG - Calculating for y: 30
+root - DEBUG - Fuel needed so far is: 12352 and remaining fuel to calculate is 8
+root - DEBUG - Calculating for y: 8
+root - DEBUG - Fuel needed so far is: 12352 and remaining fuel to calculate is 0
+root - DEBUG - Total fuel required for 24762 is 12352
+root - DEBUG - Total fuel required for 74294 is 37114
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:128984
+root - DEBUG - Fuel required for 128984 is 42992
+root - DEBUG - Total fuel needed so far is: 926904
+root - DEBUG - We need to calculate fuel needed for fuel amount: 42992
+root - DEBUG - Calculating for y: 42992
+root - DEBUG - Fuel needed so far is: 14328 and remaining fuel to calculate is 14328
+root - DEBUG - Calculating for y: 14328
+root - DEBUG - Fuel needed so far is: 19102 and remaining fuel to calculate is 4774
+root - DEBUG - Calculating for y: 4774
+root - DEBUG - Fuel needed so far is: 20691 and remaining fuel to calculate is 1589
+root - DEBUG - Calculating for y: 1589
+root - DEBUG - Fuel needed so far is: 21218 and remaining fuel to calculate is 527
+root - DEBUG - Calculating for y: 527
+root - DEBUG - Fuel needed so far is: 21391 and remaining fuel to calculate is 173
+root - DEBUG - Calculating for y: 173
+root - DEBUG - Fuel needed so far is: 21446 and remaining fuel to calculate is 55
+root - DEBUG - Calculating for y: 55
+root - DEBUG - Fuel needed so far is: 21462 and remaining fuel to calculate is 16
+root - DEBUG - Calculating for y: 16
+root - DEBUG - Fuel needed so far is: 21465 and remaining fuel to calculate is 3
+root - DEBUG - Total fuel required for 42992 is 21465
+root - DEBUG - Total fuel required for 128984 is 64457
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:68240
+root - DEBUG - Fuel required for 68240 is 22744
+root - DEBUG - Total fuel needed so far is: 971113
+root - DEBUG - We need to calculate fuel needed for fuel amount: 22744
+root - DEBUG - Calculating for y: 22744
+root - DEBUG - Fuel needed so far is: 7579 and remaining fuel to calculate is 7579
+root - DEBUG - Calculating for y: 7579
+root - DEBUG - Fuel needed so far is: 10103 and remaining fuel to calculate is 2524
+root - DEBUG - Calculating for y: 2524
+root - DEBUG - Fuel needed so far is: 10942 and remaining fuel to calculate is 839
+root - DEBUG - Calculating for y: 839
+root - DEBUG - Fuel needed so far is: 11219 and remaining fuel to calculate is 277
+root - DEBUG - Calculating for y: 277
+root - DEBUG - Fuel needed so far is: 11309 and remaining fuel to calculate is 90
+root - DEBUG - Calculating for y: 90
+root - DEBUG - Fuel needed so far is: 11337 and remaining fuel to calculate is 28
+root - DEBUG - Calculating for y: 28
+root - DEBUG - Fuel needed so far is: 11344 and remaining fuel to calculate is 7
+root - DEBUG - Calculating for y: 7
+root - DEBUG - Fuel needed so far is: 11344 and remaining fuel to calculate is 0
+root - DEBUG - Total fuel required for 22744 is 11344
+root - DEBUG - Total fuel required for 68240 is 34088
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:137098
+root - DEBUG - Fuel required for 137098 is 45697
+root - DEBUG - Total fuel needed so far is: 1028154
+root - DEBUG - We need to calculate fuel needed for fuel amount: 45697
+root - DEBUG - Calculating for y: 45697
+root - DEBUG - Fuel needed so far is: 15230 and remaining fuel to calculate is 15230
+root - DEBUG - Calculating for y: 15230
+root - DEBUG - Fuel needed so far is: 20304 and remaining fuel to calculate is 5074
+root - DEBUG - Calculating for y: 5074
+root - DEBUG - Fuel needed so far is: 21993 and remaining fuel to calculate is 1689
+root - DEBUG - Calculating for y: 1689
+root - DEBUG - Fuel needed so far is: 22554 and remaining fuel to calculate is 561
+root - DEBUG - Calculating for y: 561
+root - DEBUG - Fuel needed so far is: 22739 and remaining fuel to calculate is 185
+root - DEBUG - Calculating for y: 185
+root - DEBUG - Fuel needed so far is: 22798 and remaining fuel to calculate is 59
+root - DEBUG - Calculating for y: 59
+root - DEBUG - Fuel needed so far is: 22815 and remaining fuel to calculate is 17
+root - DEBUG - Calculating for y: 17
+root - DEBUG - Fuel needed so far is: 22818 and remaining fuel to calculate is 3
+root - DEBUG - Total fuel required for 45697 is 22818
+root - DEBUG - Total fuel required for 137098 is 68515
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:142016
+root - DEBUG - Fuel required for 142016 is 47336
+root - DEBUG - Total fuel needed so far is: 1098308
+root - DEBUG - We need to calculate fuel needed for fuel amount: 47336
+root - DEBUG - Calculating for y: 47336
+root - DEBUG - Fuel needed so far is: 15776 and remaining fuel to calculate is 15776
+root - DEBUG - Calculating for y: 15776
+root - DEBUG - Fuel needed so far is: 21032 and remaining fuel to calculate is 5256
+root - DEBUG - Calculating for y: 5256
+root - DEBUG - Fuel needed so far is: 22782 and remaining fuel to calculate is 1750
+root - DEBUG - Calculating for y: 1750
+root - DEBUG - Fuel needed so far is: 23363 and remaining fuel to calculate is 581
+root - DEBUG - Calculating for y: 581
+root - DEBUG - Fuel needed so far is: 23554 and remaining fuel to calculate is 191
+root - DEBUG - Calculating for y: 191
+root - DEBUG - Fuel needed so far is: 23615 and remaining fuel to calculate is 61
+root - DEBUG - Calculating for y: 61
+root - DEBUG - Fuel needed so far is: 23633 and remaining fuel to calculate is 18
+root - DEBUG - Calculating for y: 18
+root - DEBUG - Fuel needed so far is: 23637 and remaining fuel to calculate is 4
+root - DEBUG - Total fuel required for 47336 is 23637
+root - DEBUG - Total fuel required for 142016 is 70973
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:83577
+root - DEBUG - Fuel required for 83577 is 27857
+root - DEBUG - Total fuel needed so far is: 1149802
+root - DEBUG - We need to calculate fuel needed for fuel amount: 27857
+root - DEBUG - Calculating for y: 27857
+root - DEBUG - Fuel needed so far is: 9283 and remaining fuel to calculate is 9283
+root - DEBUG - Calculating for y: 9283
+root - DEBUG - Fuel needed so far is: 12375 and remaining fuel to calculate is 3092
+root - DEBUG - Calculating for y: 3092
+root - DEBUG - Fuel needed so far is: 13403 and remaining fuel to calculate is 1028
+root - DEBUG - Calculating for y: 1028
+root - DEBUG - Fuel needed so far is: 13743 and remaining fuel to calculate is 340
+root - DEBUG - Calculating for y: 340
+root - DEBUG - Fuel needed so far is: 13854 and remaining fuel to calculate is 111
+root - DEBUG - Calculating for y: 111
+root - DEBUG - Fuel needed so far is: 13889 and remaining fuel to calculate is 35
+root - DEBUG - Calculating for y: 35
+root - DEBUG - Fuel needed so far is: 13898 and remaining fuel to calculate is 9
+root - DEBUG - Calculating for y: 9
+root - DEBUG - Fuel needed so far is: 13899 and remaining fuel to calculate is 1
+root - DEBUG - Total fuel required for 27857 is 13899
+root - DEBUG - Total fuel required for 83577 is 41756
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:89257
+root - DEBUG - Fuel required for 89257 is 29750
+root - DEBUG - Total fuel needed so far is: 1193451
+root - DEBUG - We need to calculate fuel needed for fuel amount: 29750
+root - DEBUG - Calculating for y: 29750
+root - DEBUG - Fuel needed so far is: 9914 and remaining fuel to calculate is 9914
+root - DEBUG - Calculating for y: 9914
+root - DEBUG - Fuel needed so far is: 13216 and remaining fuel to calculate is 3302
+root - DEBUG - Calculating for y: 3302
+root - DEBUG - Fuel needed so far is: 14314 and remaining fuel to calculate is 1098
+root - DEBUG - Calculating for y: 1098
+root - DEBUG - Fuel needed so far is: 14678 and remaining fuel to calculate is 364
+root - DEBUG - Calculating for y: 364
+root - DEBUG - Fuel needed so far is: 14797 and remaining fuel to calculate is 119
+root - DEBUG - Calculating for y: 119
+root - DEBUG - Fuel needed so far is: 14834 and remaining fuel to calculate is 37
+root - DEBUG - Calculating for y: 37
+root - DEBUG - Fuel needed so far is: 14844 and remaining fuel to calculate is 10
+root - DEBUG - Calculating for y: 10
+root - DEBUG - Fuel needed so far is: 14845 and remaining fuel to calculate is 1
+root - DEBUG - Total fuel required for 29750 is 14845
+root - DEBUG - Total fuel required for 89257 is 44595
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:107744
+root - DEBUG - Fuel required for 107744 is 35912
+root - DEBUG - Total fuel needed so far is: 1244208
+root - DEBUG - We need to calculate fuel needed for fuel amount: 35912
+root - DEBUG - Calculating for y: 35912
+root - DEBUG - Fuel needed so far is: 11968 and remaining fuel to calculate is 11968
+root - DEBUG - Calculating for y: 11968
+root - DEBUG - Fuel needed so far is: 15955 and remaining fuel to calculate is 3987
+root - DEBUG - Calculating for y: 3987
+root - DEBUG - Fuel needed so far is: 17282 and remaining fuel to calculate is 1327
+root - DEBUG - Calculating for y: 1327
+root - DEBUG - Fuel needed so far is: 17722 and remaining fuel to calculate is 440
+root - DEBUG - Calculating for y: 440
+root - DEBUG - Fuel needed so far is: 17866 and remaining fuel to calculate is 144
+root - DEBUG - Calculating for y: 144
+root - DEBUG - Fuel needed so far is: 17912 and remaining fuel to calculate is 46
+root - DEBUG - Calculating for y: 46
+root - DEBUG - Fuel needed so far is: 17925 and remaining fuel to calculate is 13
+root - DEBUG - Calculating for y: 13
+root - DEBUG - Fuel needed so far is: 17927 and remaining fuel to calculate is 2
+root - DEBUG - Total fuel required for 35912 is 17927
+root - DEBUG - Total fuel required for 107744 is 53839
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:67357
+root - DEBUG - Fuel required for 67357 is 22450
+root - DEBUG - Total fuel needed so far is: 1284585
+root - DEBUG - We need to calculate fuel needed for fuel amount: 22450
+root - DEBUG - Calculating for y: 22450
+root - DEBUG - Fuel needed so far is: 7481 and remaining fuel to calculate is 7481
+root - DEBUG - Calculating for y: 7481
+root - DEBUG - Fuel needed so far is: 9972 and remaining fuel to calculate is 2491
+root - DEBUG - Calculating for y: 2491
+root - DEBUG - Fuel needed so far is: 10800 and remaining fuel to calculate is 828
+root - DEBUG - Calculating for y: 828
+root - DEBUG - Fuel needed so far is: 11074 and remaining fuel to calculate is 274
+root - DEBUG - Calculating for y: 274
+root - DEBUG - Fuel needed so far is: 11163 and remaining fuel to calculate is 89
+root - DEBUG - Calculating for y: 89
+root - DEBUG - Fuel needed so far is: 11190 and remaining fuel to calculate is 27
+root - DEBUG - Calculating for y: 27
+root - DEBUG - Fuel needed so far is: 11197 and remaining fuel to calculate is 7
+root - DEBUG - Calculating for y: 7
+root - DEBUG - Fuel needed so far is: 11197 and remaining fuel to calculate is 0
+root - DEBUG - Total fuel required for 22450 is 11197
+root - DEBUG - Total fuel required for 67357 is 33647
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:131342
+root - DEBUG - Fuel required for 131342 is 43778
+root - DEBUG - Total fuel needed so far is: 1339560
+root - DEBUG - We need to calculate fuel needed for fuel amount: 43778
+root - DEBUG - Calculating for y: 43778
+root - DEBUG - Fuel needed so far is: 14590 and remaining fuel to calculate is 14590
+root - DEBUG - Calculating for y: 14590
+root - DEBUG - Fuel needed so far is: 19451 and remaining fuel to calculate is 4861
+root - DEBUG - Calculating for y: 4861
+root - DEBUG - Fuel needed so far is: 21069 and remaining fuel to calculate is 1618
+root - DEBUG - Calculating for y: 1618
+root - DEBUG - Fuel needed so far is: 21606 and remaining fuel to calculate is 537
+root - DEBUG - Calculating for y: 537
+root - DEBUG - Fuel needed so far is: 21783 and remaining fuel to calculate is 177
+root - DEBUG - Calculating for y: 177
+root - DEBUG - Fuel needed so far is: 21840 and remaining fuel to calculate is 57
+root - DEBUG - Calculating for y: 57
+root - DEBUG - Fuel needed so far is: 21857 and remaining fuel to calculate is 17
+root - DEBUG - Calculating for y: 17
+root - DEBUG - Fuel needed so far is: 21860 and remaining fuel to calculate is 3
+root - DEBUG - Total fuel required for 43778 is 21860
+root - DEBUG - Total fuel required for 131342 is 65638
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:98247
+root - DEBUG - Fuel required for 98247 is 32747
+root - DEBUG - Total fuel needed so far is: 1394167
+root - DEBUG - We need to calculate fuel needed for fuel amount: 32747
+root - DEBUG - Calculating for y: 32747
+root - DEBUG - Fuel needed so far is: 10913 and remaining fuel to calculate is 10913
+root - DEBUG - Calculating for y: 10913
+root - DEBUG - Fuel needed so far is: 14548 and remaining fuel to calculate is 3635
+root - DEBUG - Calculating for y: 3635
+root - DEBUG - Fuel needed so far is: 15757 and remaining fuel to calculate is 1209
+root - DEBUG - Calculating for y: 1209
+root - DEBUG - Fuel needed so far is: 16158 and remaining fuel to calculate is 401
+root - DEBUG - Calculating for y: 401
+root - DEBUG - Fuel needed so far is: 16289 and remaining fuel to calculate is 131
+root - DEBUG - Calculating for y: 131
+root - DEBUG - Fuel needed so far is: 16330 and remaining fuel to calculate is 41
+root - DEBUG - Calculating for y: 41
+root - DEBUG - Fuel needed so far is: 16341 and remaining fuel to calculate is 11
+root - DEBUG - Calculating for y: 11
+root - DEBUG - Fuel needed so far is: 16342 and remaining fuel to calculate is 1
+root - DEBUG - Total fuel required for 32747 is 16342
+root - DEBUG - Total fuel required for 98247 is 49089
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:137501
+root - DEBUG - Fuel required for 137501 is 45831
+root - DEBUG - Total fuel needed so far is: 1456340
+root - DEBUG - We need to calculate fuel needed for fuel amount: 45831
+root - DEBUG - Calculating for y: 45831
+root - DEBUG - Fuel needed so far is: 15275 and remaining fuel to calculate is 15275
+root - DEBUG - Calculating for y: 15275
+root - DEBUG - Fuel needed so far is: 20364 and remaining fuel to calculate is 5089
+root - DEBUG - Calculating for y: 5089
+root - DEBUG - Fuel needed so far is: 22058 and remaining fuel to calculate is 1694
+root - DEBUG - Calculating for y: 1694
+root - DEBUG - Fuel needed so far is: 22620 and remaining fuel to calculate is 562
+root - DEBUG - Calculating for y: 562
+root - DEBUG - Fuel needed so far is: 22805 and remaining fuel to calculate is 185
+root - DEBUG - Calculating for y: 185
+root - DEBUG - Fuel needed so far is: 22864 and remaining fuel to calculate is 59
+root - DEBUG - Calculating for y: 59
+root - DEBUG - Fuel needed so far is: 22881 and remaining fuel to calculate is 17
+root - DEBUG - Calculating for y: 17
+root - DEBUG - Fuel needed so far is: 22884 and remaining fuel to calculate is 3
+root - DEBUG - Total fuel required for 45831 is 22884
+root - DEBUG - Total fuel required for 137501 is 68715
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:134577
+root - DEBUG - Fuel required for 134577 is 44857
+root - DEBUG - Total fuel needed so far is: 1524081
+root - DEBUG - We need to calculate fuel needed for fuel amount: 44857
+root - DEBUG - Calculating for y: 44857
+root - DEBUG - Fuel needed so far is: 14950 and remaining fuel to calculate is 14950
+root - DEBUG - Calculating for y: 14950
+root - DEBUG - Fuel needed so far is: 19931 and remaining fuel to calculate is 4981
+root - DEBUG - Calculating for y: 4981
+root - DEBUG - Fuel needed so far is: 21589 and remaining fuel to calculate is 1658
+root - DEBUG - Calculating for y: 1658
+root - DEBUG - Fuel needed so far is: 22139 and remaining fuel to calculate is 550
+root - DEBUG - Calculating for y: 550
+root - DEBUG - Fuel needed so far is: 22320 and remaining fuel to calculate is 181
+root - DEBUG - Calculating for y: 181
+root - DEBUG - Fuel needed so far is: 22378 and remaining fuel to calculate is 58
+root - DEBUG - Calculating for y: 58
+root - DEBUG - Fuel needed so far is: 22395 and remaining fuel to calculate is 17
+root - DEBUG - Calculating for y: 17
+root - DEBUG - Fuel needed so far is: 22398 and remaining fuel to calculate is 3
+root - DEBUG - Total fuel required for 44857 is 22398
+root - DEBUG - Total fuel required for 134577 is 67255
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:65696
+root - DEBUG - Fuel required for 65696 is 21896
+root - DEBUG - Total fuel needed so far is: 1568375
+root - DEBUG - We need to calculate fuel needed for fuel amount: 21896
+root - DEBUG - Calculating for y: 21896
+root - DEBUG - Fuel needed so far is: 7296 and remaining fuel to calculate is 7296
+root - DEBUG - Calculating for y: 7296
+root - DEBUG - Fuel needed so far is: 9726 and remaining fuel to calculate is 2430
+root - DEBUG - Calculating for y: 2430
+root - DEBUG - Fuel needed so far is: 10534 and remaining fuel to calculate is 808
+root - DEBUG - Calculating for y: 808
+root - DEBUG - Fuel needed so far is: 10801 and remaining fuel to calculate is 267
+root - DEBUG - Calculating for y: 267
+root - DEBUG - Fuel needed so far is: 10888 and remaining fuel to calculate is 87
+root - DEBUG - Calculating for y: 87
+root - DEBUG - Fuel needed so far is: 10915 and remaining fuel to calculate is 27
+root - DEBUG - Calculating for y: 27
+root - DEBUG - Fuel needed so far is: 10922 and remaining fuel to calculate is 7
+root - DEBUG - Calculating for y: 7
+root - DEBUG - Fuel needed so far is: 10922 and remaining fuel to calculate is 0
+root - DEBUG - Total fuel required for 21896 is 10922
+root - DEBUG - Total fuel required for 65696 is 32818
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:84925
+root - DEBUG - Fuel required for 84925 is 28306
+root - DEBUG - Total fuel needed so far is: 1607603
+root - DEBUG - We need to calculate fuel needed for fuel amount: 28306
+root - DEBUG - Calculating for y: 28306
+root - DEBUG - Fuel needed so far is: 9433 and remaining fuel to calculate is 9433
+root - DEBUG - Calculating for y: 9433
+root - DEBUG - Fuel needed so far is: 12575 and remaining fuel to calculate is 3142
+root - DEBUG - Calculating for y: 3142
+root - DEBUG - Fuel needed so far is: 13620 and remaining fuel to calculate is 1045
+root - DEBUG - Calculating for y: 1045
+root - DEBUG - Fuel needed so far is: 13966 and remaining fuel to calculate is 346
+root - DEBUG - Calculating for y: 346
+root - DEBUG - Fuel needed so far is: 14079 and remaining fuel to calculate is 113
+root - DEBUG - Calculating for y: 113
+root - DEBUG - Fuel needed so far is: 14114 and remaining fuel to calculate is 35
+root - DEBUG - Calculating for y: 35
+root - DEBUG - Fuel needed so far is: 14123 and remaining fuel to calculate is 9
+root - DEBUG - Calculating for y: 9
+root - DEBUG - Fuel needed so far is: 14124 and remaining fuel to calculate is 1
+root - DEBUG - Total fuel required for 28306 is 14124
+root - DEBUG - Total fuel required for 84925 is 42430
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:50159
+root - DEBUG - Fuel required for 50159 is 16717
+root - DEBUG - Total fuel needed so far is: 1638444
+root - DEBUG - We need to calculate fuel needed for fuel amount: 16717
+root - DEBUG - Calculating for y: 16717
+root - DEBUG - Fuel needed so far is: 5570 and remaining fuel to calculate is 5570
+root - DEBUG - Calculating for y: 5570
+root - DEBUG - Fuel needed so far is: 7424 and remaining fuel to calculate is 1854
+root - DEBUG - Calculating for y: 1854
+root - DEBUG - Fuel needed so far is: 8040 and remaining fuel to calculate is 616
+root - DEBUG - Calculating for y: 616
+root - DEBUG - Fuel needed so far is: 8243 and remaining fuel to calculate is 203
+root - DEBUG - Calculating for y: 203
+root - DEBUG - Fuel needed so far is: 8308 and remaining fuel to calculate is 65
+root - DEBUG - Calculating for y: 65
+root - DEBUG - Fuel needed so far is: 8327 and remaining fuel to calculate is 19
+root - DEBUG - Calculating for y: 19
+root - DEBUG - Fuel needed so far is: 8331 and remaining fuel to calculate is 4
+root - DEBUG - Total fuel required for 16717 is 8331
+root - DEBUG - Total fuel required for 50159 is 25048
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:110319
+root - DEBUG - Fuel required for 110319 is 36771
+root - DEBUG - Total fuel needed so far is: 1683546
+root - DEBUG - We need to calculate fuel needed for fuel amount: 36771
+root - DEBUG - Calculating for y: 36771
+root - DEBUG - Fuel needed so far is: 12255 and remaining fuel to calculate is 12255
+root - DEBUG - Calculating for y: 12255
+root - DEBUG - Fuel needed so far is: 16338 and remaining fuel to calculate is 4083
+root - DEBUG - Calculating for y: 4083
+root - DEBUG - Fuel needed so far is: 17697 and remaining fuel to calculate is 1359
+root - DEBUG - Calculating for y: 1359
+root - DEBUG - Fuel needed so far is: 18148 and remaining fuel to calculate is 451
+root - DEBUG - Calculating for y: 451
+root - DEBUG - Fuel needed so far is: 18296 and remaining fuel to calculate is 148
+root - DEBUG - Calculating for y: 148
+root - DEBUG - Fuel needed so far is: 18343 and remaining fuel to calculate is 47
+root - DEBUG - Calculating for y: 47
+root - DEBUG - Fuel needed so far is: 18356 and remaining fuel to calculate is 13
+root - DEBUG - Calculating for y: 13
+root - DEBUG - Fuel needed so far is: 18358 and remaining fuel to calculate is 2
+root - DEBUG - Total fuel required for 36771 is 18358
+root - DEBUG - Total fuel required for 110319 is 55129
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:91921
+root - DEBUG - Fuel required for 91921 is 30638
+root - DEBUG - Total fuel needed so far is: 1732542
+root - DEBUG - We need to calculate fuel needed for fuel amount: 30638
+root - DEBUG - Calculating for y: 30638
+root - DEBUG - Fuel needed so far is: 10210 and remaining fuel to calculate is 10210
+root - DEBUG - Calculating for y: 10210
+root - DEBUG - Fuel needed so far is: 13611 and remaining fuel to calculate is 3401
+root - DEBUG - Calculating for y: 3401
+root - DEBUG - Fuel needed so far is: 14742 and remaining fuel to calculate is 1131
+root - DEBUG - Calculating for y: 1131
+root - DEBUG - Fuel needed so far is: 15117 and remaining fuel to calculate is 375
+root - DEBUG - Calculating for y: 375
+root - DEBUG - Fuel needed so far is: 15240 and remaining fuel to calculate is 123
+root - DEBUG - Calculating for y: 123
+root - DEBUG - Fuel needed so far is: 15279 and remaining fuel to calculate is 39
+root - DEBUG - Calculating for y: 39
+root - DEBUG - Fuel needed so far is: 15290 and remaining fuel to calculate is 11
+root - DEBUG - Calculating for y: 11
+root - DEBUG - Fuel needed so far is: 15291 and remaining fuel to calculate is 1
+root - DEBUG - Total fuel required for 30638 is 15291
+root - DEBUG - Total fuel required for 91921 is 45929
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:103303
+root - DEBUG - Fuel required for 103303 is 34432
+root - DEBUG - Total fuel needed so far is: 1782265
+root - DEBUG - We need to calculate fuel needed for fuel amount: 34432
+root - DEBUG - Calculating for y: 34432
+root - DEBUG - Fuel needed so far is: 11475 and remaining fuel to calculate is 11475
+root - DEBUG - Calculating for y: 11475
+root - DEBUG - Fuel needed so far is: 15298 and remaining fuel to calculate is 3823
+root - DEBUG - Calculating for y: 3823
+root - DEBUG - Fuel needed so far is: 16570 and remaining fuel to calculate is 1272
+root - DEBUG - Calculating for y: 1272
+root - DEBUG - Fuel needed so far is: 16992 and remaining fuel to calculate is 422
+root - DEBUG - Calculating for y: 422
+root - DEBUG - Fuel needed so far is: 17130 and remaining fuel to calculate is 138
+root - DEBUG - Calculating for y: 138
+root - DEBUG - Fuel needed so far is: 17174 and remaining fuel to calculate is 44
+root - DEBUG - Calculating for y: 44
+root - DEBUG - Fuel needed so far is: 17186 and remaining fuel to calculate is 12
+root - DEBUG - Calculating for y: 12
+root - DEBUG - Fuel needed so far is: 17188 and remaining fuel to calculate is 2
+root - DEBUG - Total fuel required for 34432 is 17188
+root - DEBUG - Total fuel required for 103303 is 51620
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:84505
+root - DEBUG - Fuel required for 84505 is 28166
+root - DEBUG - Total fuel needed so far is: 1827619
+root - DEBUG - We need to calculate fuel needed for fuel amount: 28166
+root - DEBUG - Calculating for y: 28166
+root - DEBUG - Fuel needed so far is: 9386 and remaining fuel to calculate is 9386
+root - DEBUG - Calculating for y: 9386
+root - DEBUG - Fuel needed so far is: 12512 and remaining fuel to calculate is 3126
+root - DEBUG - Calculating for y: 3126
+root - DEBUG - Fuel needed so far is: 13552 and remaining fuel to calculate is 1040
+root - DEBUG - Calculating for y: 1040
+root - DEBUG - Fuel needed so far is: 13896 and remaining fuel to calculate is 344
+root - DEBUG - Calculating for y: 344
+root - DEBUG - Fuel needed so far is: 14008 and remaining fuel to calculate is 112
+root - DEBUG - Calculating for y: 112
+root - DEBUG - Fuel needed so far is: 14043 and remaining fuel to calculate is 35
+root - DEBUG - Calculating for y: 35
+root - DEBUG - Fuel needed so far is: 14052 and remaining fuel to calculate is 9
+root - DEBUG - Calculating for y: 9
+root - DEBUG - Fuel needed so far is: 14053 and remaining fuel to calculate is 1
+root - DEBUG - Total fuel required for 28166 is 14053
+root - DEBUG - Total fuel required for 84505 is 42219
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:84683
+root - DEBUG - Fuel required for 84683 is 28225
+root - DEBUG - Total fuel needed so far is: 1869897
+root - DEBUG - We need to calculate fuel needed for fuel amount: 28225
+root - DEBUG - Calculating for y: 28225
+root - DEBUG - Fuel needed so far is: 9406 and remaining fuel to calculate is 9406
+root - DEBUG - Calculating for y: 9406
+root - DEBUG - Fuel needed so far is: 12539 and remaining fuel to calculate is 3133
+root - DEBUG - Calculating for y: 3133
+root - DEBUG - Fuel needed so far is: 13581 and remaining fuel to calculate is 1042
+root - DEBUG - Calculating for y: 1042
+root - DEBUG - Fuel needed so far is: 13926 and remaining fuel to calculate is 345
+root - DEBUG - Calculating for y: 345
+root - DEBUG - Fuel needed so far is: 14039 and remaining fuel to calculate is 113
+root - DEBUG - Calculating for y: 113
+root - DEBUG - Fuel needed so far is: 14074 and remaining fuel to calculate is 35
+root - DEBUG - Calculating for y: 35
+root - DEBUG - Fuel needed so far is: 14083 and remaining fuel to calculate is 9
+root - DEBUG - Calculating for y: 9
+root - DEBUG - Fuel needed so far is: 14084 and remaining fuel to calculate is 1
+root - DEBUG - Total fuel required for 28225 is 14084
+root - DEBUG - Total fuel required for 84683 is 42309
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:100811
+root - DEBUG - Fuel required for 100811 is 33601
+root - DEBUG - Total fuel needed so far is: 1917582
+root - DEBUG - We need to calculate fuel needed for fuel amount: 33601
+root - DEBUG - Calculating for y: 33601
+root - DEBUG - Fuel needed so far is: 11198 and remaining fuel to calculate is 11198
+root - DEBUG - Calculating for y: 11198
+root - DEBUG - Fuel needed so far is: 14928 and remaining fuel to calculate is 3730
+root - DEBUG - Calculating for y: 3730
+root - DEBUG - Fuel needed so far is: 16169 and remaining fuel to calculate is 1241
+root - DEBUG - Calculating for y: 1241
+root - DEBUG - Fuel needed so far is: 16580 and remaining fuel to calculate is 411
+root - DEBUG - Calculating for y: 411
+root - DEBUG - Fuel needed so far is: 16715 and remaining fuel to calculate is 135
+root - DEBUG - Calculating for y: 135
+root - DEBUG - Fuel needed so far is: 16758 and remaining fuel to calculate is 43
+root - DEBUG - Calculating for y: 43
+root - DEBUG - Fuel needed so far is: 16770 and remaining fuel to calculate is 12
+root - DEBUG - Calculating for y: 12
+root - DEBUG - Fuel needed so far is: 16772 and remaining fuel to calculate is 2
+root - DEBUG - Total fuel required for 33601 is 16772
+root - DEBUG - Total fuel required for 100811 is 50373
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:82626
+root - DEBUG - Fuel required for 82626 is 27540
+root - DEBUG - Total fuel needed so far is: 1961894
+root - DEBUG - We need to calculate fuel needed for fuel amount: 27540
+root - DEBUG - Calculating for y: 27540
+root - DEBUG - Fuel needed so far is: 9178 and remaining fuel to calculate is 9178
+root - DEBUG - Calculating for y: 9178
+root - DEBUG - Fuel needed so far is: 12235 and remaining fuel to calculate is 3057
+root - DEBUG - Calculating for y: 3057
+root - DEBUG - Fuel needed so far is: 13252 and remaining fuel to calculate is 1017
+root - DEBUG - Calculating for y: 1017
+root - DEBUG - Fuel needed so far is: 13589 and remaining fuel to calculate is 337
+root - DEBUG - Calculating for y: 337
+root - DEBUG - Fuel needed so far is: 13699 and remaining fuel to calculate is 110
+root - DEBUG - Calculating for y: 110
+root - DEBUG - Fuel needed so far is: 13733 and remaining fuel to calculate is 34
+root - DEBUG - Calculating for y: 34
+root - DEBUG - Fuel needed so far is: 13742 and remaining fuel to calculate is 9
+root - DEBUG - Calculating for y: 9
+root - DEBUG - Fuel needed so far is: 13743 and remaining fuel to calculate is 1
+root - DEBUG - Total fuel required for 27540 is 13743
+root - DEBUG - Total fuel required for 82626 is 41283
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:66774
+root - DEBUG - Fuel required for 66774 is 22256
+root - DEBUG - Total fuel needed so far is: 1997893
+root - DEBUG - We need to calculate fuel needed for fuel amount: 22256
+root - DEBUG - Calculating for y: 22256
+root - DEBUG - Fuel needed so far is: 7416 and remaining fuel to calculate is 7416
+root - DEBUG - Calculating for y: 7416
+root - DEBUG - Fuel needed so far is: 9886 and remaining fuel to calculate is 2470
+root - DEBUG - Calculating for y: 2470
+root - DEBUG - Fuel needed so far is: 10707 and remaining fuel to calculate is 821
+root - DEBUG - Calculating for y: 821
+root - DEBUG - Fuel needed so far is: 10978 and remaining fuel to calculate is 271
+root - DEBUG - Calculating for y: 271
+root - DEBUG - Fuel needed so far is: 11066 and remaining fuel to calculate is 88
+root - DEBUG - Calculating for y: 88
+root - DEBUG - Fuel needed so far is: 11093 and remaining fuel to calculate is 27
+root - DEBUG - Calculating for y: 27
+root - DEBUG - Fuel needed so far is: 11100 and remaining fuel to calculate is 7
+root - DEBUG - Calculating for y: 7
+root - DEBUG - Fuel needed so far is: 11100 and remaining fuel to calculate is 0
+root - DEBUG - Total fuel required for 22256 is 11100
+root - DEBUG - Total fuel required for 66774 is 33356
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:123216
+root - DEBUG - Fuel required for 123216 is 41070
+root - DEBUG - Total fuel needed so far is: 2050063
+root - DEBUG - We need to calculate fuel needed for fuel amount: 41070
+root - DEBUG - Calculating for y: 41070
+root - DEBUG - Fuel needed so far is: 13688 and remaining fuel to calculate is 13688
+root - DEBUG - Calculating for y: 13688
+root - DEBUG - Fuel needed so far is: 18248 and remaining fuel to calculate is 4560
+root - DEBUG - Calculating for y: 4560
+root - DEBUG - Fuel needed so far is: 19766 and remaining fuel to calculate is 1518
+root - DEBUG - Calculating for y: 1518
+root - DEBUG - Fuel needed so far is: 20270 and remaining fuel to calculate is 504
+root - DEBUG - Calculating for y: 504
+root - DEBUG - Fuel needed so far is: 20436 and remaining fuel to calculate is 166
+root - DEBUG - Calculating for y: 166
+root - DEBUG - Fuel needed so far is: 20489 and remaining fuel to calculate is 53
+root - DEBUG - Calculating for y: 53
+root - DEBUG - Fuel needed so far is: 20504 and remaining fuel to calculate is 15
+root - DEBUG - Calculating for y: 15
+root - DEBUG - Fuel needed so far is: 20507 and remaining fuel to calculate is 3
+root - DEBUG - Total fuel required for 41070 is 20507
+root - DEBUG - Total fuel required for 123216 is 61577
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:95151
+root - DEBUG - Fuel required for 95151 is 31715
+root - DEBUG - Total fuel needed so far is: 2102285
+root - DEBUG - We need to calculate fuel needed for fuel amount: 31715
+root - DEBUG - Calculating for y: 31715
+root - DEBUG - Fuel needed so far is: 10569 and remaining fuel to calculate is 10569
+root - DEBUG - Calculating for y: 10569
+root - DEBUG - Fuel needed so far is: 14090 and remaining fuel to calculate is 3521
+root - DEBUG - Calculating for y: 3521
+root - DEBUG - Fuel needed so far is: 15261 and remaining fuel to calculate is 1171
+root - DEBUG - Calculating for y: 1171
+root - DEBUG - Fuel needed so far is: 15649 and remaining fuel to calculate is 388
+root - DEBUG - Calculating for y: 388
+root - DEBUG - Fuel needed so far is: 15776 and remaining fuel to calculate is 127
+root - DEBUG - Calculating for y: 127
+root - DEBUG - Fuel needed so far is: 15816 and remaining fuel to calculate is 40
+root - DEBUG - Calculating for y: 40
+root - DEBUG - Fuel needed so far is: 15827 and remaining fuel to calculate is 11
+root - DEBUG - Calculating for y: 11
+root - DEBUG - Fuel needed so far is: 15828 and remaining fuel to calculate is 1
+root - DEBUG - Total fuel required for 31715 is 15828
+root - DEBUG - Total fuel required for 95151 is 47543
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:88237
+root - DEBUG - Fuel required for 88237 is 29410
+root - DEBUG - Total fuel needed so far is: 2147523
+root - DEBUG - We need to calculate fuel needed for fuel amount: 29410
+root - DEBUG - Calculating for y: 29410
+root - DEBUG - Fuel needed so far is: 9801 and remaining fuel to calculate is 9801
+root - DEBUG - Calculating for y: 9801
+root - DEBUG - Fuel needed so far is: 13066 and remaining fuel to calculate is 3265
+root - DEBUG - Calculating for y: 3265
+root - DEBUG - Fuel needed so far is: 14152 and remaining fuel to calculate is 1086
+root - DEBUG - Calculating for y: 1086
+root - DEBUG - Fuel needed so far is: 14512 and remaining fuel to calculate is 360
+root - DEBUG - Calculating for y: 360
+root - DEBUG - Fuel needed so far is: 14630 and remaining fuel to calculate is 118
+root - DEBUG - Calculating for y: 118
+root - DEBUG - Fuel needed so far is: 14667 and remaining fuel to calculate is 37
+root - DEBUG - Calculating for y: 37
+root - DEBUG - Fuel needed so far is: 14677 and remaining fuel to calculate is 10
+root - DEBUG - Calculating for y: 10
+root - DEBUG - Fuel needed so far is: 14678 and remaining fuel to calculate is 1
+root - DEBUG - Total fuel required for 29410 is 14678
+root - DEBUG - Total fuel required for 88237 is 44088
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:60705
+root - DEBUG - Fuel required for 60705 is 20233
+root - DEBUG - Total fuel needed so far is: 2182434
+root - DEBUG - We need to calculate fuel needed for fuel amount: 20233
+root - DEBUG - Calculating for y: 20233
+root - DEBUG - Fuel needed so far is: 6742 and remaining fuel to calculate is 6742
+root - DEBUG - Calculating for y: 6742
+root - DEBUG - Fuel needed so far is: 8987 and remaining fuel to calculate is 2245
+root - DEBUG - Calculating for y: 2245
+root - DEBUG - Fuel needed so far is: 9733 and remaining fuel to calculate is 746
+root - DEBUG - Calculating for y: 746
+root - DEBUG - Fuel needed so far is: 9979 and remaining fuel to calculate is 246
+root - DEBUG - Calculating for y: 246
+root - DEBUG - Fuel needed so far is: 10059 and remaining fuel to calculate is 80
+root - DEBUG - Calculating for y: 80
+root - DEBUG - Fuel needed so far is: 10083 and remaining fuel to calculate is 24
+root - DEBUG - Calculating for y: 24
+root - DEBUG - Fuel needed so far is: 10089 and remaining fuel to calculate is 6
+root - DEBUG - Calculating for y: 6
+root - DEBUG - Fuel needed so far is: 10089 and remaining fuel to calculate is 0
+root - DEBUG - Total fuel required for 20233 is 10089
+root - DEBUG - Total fuel required for 60705 is 30322
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:124319
+root - DEBUG - Fuel required for 124319 is 41437
+root - DEBUG - Total fuel needed so far is: 2233960
+root - DEBUG - We need to calculate fuel needed for fuel amount: 41437
+root - DEBUG - Calculating for y: 41437
+root - DEBUG - Fuel needed so far is: 13810 and remaining fuel to calculate is 13810
+root - DEBUG - Calculating for y: 13810
+root - DEBUG - Fuel needed so far is: 18411 and remaining fuel to calculate is 4601
+root - DEBUG - Calculating for y: 4601
+root - DEBUG - Fuel needed so far is: 19942 and remaining fuel to calculate is 1531
+root - DEBUG - Calculating for y: 1531
+root - DEBUG - Fuel needed so far is: 20450 and remaining fuel to calculate is 508
+root - DEBUG - Calculating for y: 508
+root - DEBUG - Fuel needed so far is: 20617 and remaining fuel to calculate is 167
+root - DEBUG - Calculating for y: 167
+root - DEBUG - Fuel needed so far is: 20670 and remaining fuel to calculate is 53
+root - DEBUG - Calculating for y: 53
+root - DEBUG - Fuel needed so far is: 20685 and remaining fuel to calculate is 15
+root - DEBUG - Calculating for y: 15
+root - DEBUG - Fuel needed so far is: 20688 and remaining fuel to calculate is 3
+root - DEBUG - Total fuel required for 41437 is 20688
+root - DEBUG - Total fuel required for 124319 is 62125
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:102926
+root - DEBUG - Fuel required for 102926 is 34306
+root - DEBUG - Total fuel needed so far is: 2288954
+root - DEBUG - We need to calculate fuel needed for fuel amount: 34306
+root - DEBUG - Calculating for y: 34306
+root - DEBUG - Fuel needed so far is: 11433 and remaining fuel to calculate is 11433
+root - DEBUG - Calculating for y: 11433
+root - DEBUG - Fuel needed so far is: 15242 and remaining fuel to calculate is 3809
+root - DEBUG - Calculating for y: 3809
+root - DEBUG - Fuel needed so far is: 16509 and remaining fuel to calculate is 1267
+root - DEBUG - Calculating for y: 1267
+root - DEBUG - Fuel needed so far is: 16929 and remaining fuel to calculate is 420
+root - DEBUG - Calculating for y: 420
+root - DEBUG - Fuel needed so far is: 17067 and remaining fuel to calculate is 138
+root - DEBUG - Calculating for y: 138
+root - DEBUG - Fuel needed so far is: 17111 and remaining fuel to calculate is 44
+root - DEBUG - Calculating for y: 44
+root - DEBUG - Fuel needed so far is: 17123 and remaining fuel to calculate is 12
+root - DEBUG - Calculating for y: 12
+root - DEBUG - Fuel needed so far is: 17125 and remaining fuel to calculate is 2
+root - DEBUG - Total fuel required for 34306 is 17125
+root - DEBUG - Total fuel required for 102926 is 51431
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:143160
+root - DEBUG - Fuel required for 143160 is 47718
+root - DEBUG - Total fuel needed so far is: 2353797
+root - DEBUG - We need to calculate fuel needed for fuel amount: 47718
+root - DEBUG - Calculating for y: 47718
+root - DEBUG - Fuel needed so far is: 15904 and remaining fuel to calculate is 15904
+root - DEBUG - Calculating for y: 15904
+root - DEBUG - Fuel needed so far is: 21203 and remaining fuel to calculate is 5299
+root - DEBUG - Calculating for y: 5299
+root - DEBUG - Fuel needed so far is: 22967 and remaining fuel to calculate is 1764
+root - DEBUG - Calculating for y: 1764
+root - DEBUG - Fuel needed so far is: 23553 and remaining fuel to calculate is 586
+root - DEBUG - Calculating for y: 586
+root - DEBUG - Fuel needed so far is: 23746 and remaining fuel to calculate is 193
+root - DEBUG - Calculating for y: 193
+root - DEBUG - Fuel needed so far is: 23808 and remaining fuel to calculate is 62
+root - DEBUG - Calculating for y: 62
+root - DEBUG - Fuel needed so far is: 23826 and remaining fuel to calculate is 18
+root - DEBUG - Calculating for y: 18
+root - DEBUG - Fuel needed so far is: 23830 and remaining fuel to calculate is 4
+root - DEBUG - Total fuel required for 47718 is 23830
+root - DEBUG - Total fuel required for 143160 is 71548
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:92780
+root - DEBUG - Fuel required for 92780 is 30924
+root - DEBUG - Total fuel needed so far is: 2408551
+root - DEBUG - We need to calculate fuel needed for fuel amount: 30924
+root - DEBUG - Calculating for y: 30924
+root - DEBUG - Fuel needed so far is: 10306 and remaining fuel to calculate is 10306
+root - DEBUG - Calculating for y: 10306
+root - DEBUG - Fuel needed so far is: 13739 and remaining fuel to calculate is 3433
+root - DEBUG - Calculating for y: 3433
+root - DEBUG - Fuel needed so far is: 14881 and remaining fuel to calculate is 1142
+root - DEBUG - Calculating for y: 1142
+root - DEBUG - Fuel needed so far is: 15259 and remaining fuel to calculate is 378
+root - DEBUG - Calculating for y: 378
+root - DEBUG - Fuel needed so far is: 15383 and remaining fuel to calculate is 124
+root - DEBUG - Calculating for y: 124
+root - DEBUG - Fuel needed so far is: 15422 and remaining fuel to calculate is 39
+root - DEBUG - Calculating for y: 39
+root - DEBUG - Fuel needed so far is: 15433 and remaining fuel to calculate is 11
+root - DEBUG - Calculating for y: 11
+root - DEBUG - Fuel needed so far is: 15434 and remaining fuel to calculate is 1
+root - DEBUG - Total fuel required for 30924 is 15434
+root - DEBUG - Total fuel required for 92780 is 46358
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:64283
+root - DEBUG - Fuel required for 64283 is 21425
+root - DEBUG - Total fuel needed so far is: 2445410
+root - DEBUG - We need to calculate fuel needed for fuel amount: 21425
+root - DEBUG - Calculating for y: 21425
+root - DEBUG - Fuel needed so far is: 7139 and remaining fuel to calculate is 7139
+root - DEBUG - Calculating for y: 7139
+root - DEBUG - Fuel needed so far is: 9516 and remaining fuel to calculate is 2377
+root - DEBUG - Calculating for y: 2377
+root - DEBUG - Fuel needed so far is: 10306 and remaining fuel to calculate is 790
+root - DEBUG - Calculating for y: 790
+root - DEBUG - Fuel needed so far is: 10567 and remaining fuel to calculate is 261
+root - DEBUG - Calculating for y: 261
+root - DEBUG - Fuel needed so far is: 10652 and remaining fuel to calculate is 85
+root - DEBUG - Calculating for y: 85
+root - DEBUG - Fuel needed so far is: 10678 and remaining fuel to calculate is 26
+root - DEBUG - Calculating for y: 26
+root - DEBUG - Fuel needed so far is: 10684 and remaining fuel to calculate is 6
+root - DEBUG - Calculating for y: 6
+root - DEBUG - Fuel needed so far is: 10684 and remaining fuel to calculate is 0
+root - DEBUG - Total fuel required for 21425 is 10684
+root - DEBUG - Total fuel required for 64283 is 32109
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:132434
+root - DEBUG - Fuel required for 132434 is 44142
+root - DEBUG - Total fuel needed so far is: 2500236
+root - DEBUG - We need to calculate fuel needed for fuel amount: 44142
+root - DEBUG - Calculating for y: 44142
+root - DEBUG - Fuel needed so far is: 14712 and remaining fuel to calculate is 14712
+root - DEBUG - Calculating for y: 14712
+root - DEBUG - Fuel needed so far is: 19614 and remaining fuel to calculate is 4902
+root - DEBUG - Calculating for y: 4902
+root - DEBUG - Fuel needed so far is: 21246 and remaining fuel to calculate is 1632
+root - DEBUG - Calculating for y: 1632
+root - DEBUG - Fuel needed so far is: 21788 and remaining fuel to calculate is 542
+root - DEBUG - Calculating for y: 542
+root - DEBUG - Fuel needed so far is: 21966 and remaining fuel to calculate is 178
+root - DEBUG - Calculating for y: 178
+root - DEBUG - Fuel needed so far is: 22023 and remaining fuel to calculate is 57
+root - DEBUG - Calculating for y: 57
+root - DEBUG - Fuel needed so far is: 22040 and remaining fuel to calculate is 17
+root - DEBUG - Calculating for y: 17
+root - DEBUG - Fuel needed so far is: 22043 and remaining fuel to calculate is 3
+root - DEBUG - Total fuel required for 44142 is 22043
+root - DEBUG - Total fuel required for 132434 is 66185
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:113935
+root - DEBUG - Fuel required for 113935 is 37976
+root - DEBUG - Total fuel needed so far is: 2560255
+root - DEBUG - We need to calculate fuel needed for fuel amount: 37976
+root - DEBUG - Calculating for y: 37976
+root - DEBUG - Fuel needed so far is: 12656 and remaining fuel to calculate is 12656
+root - DEBUG - Calculating for y: 12656
+root - DEBUG - Fuel needed so far is: 16872 and remaining fuel to calculate is 4216
+root - DEBUG - Calculating for y: 4216
+root - DEBUG - Fuel needed so far is: 18275 and remaining fuel to calculate is 1403
+root - DEBUG - Calculating for y: 1403
+root - DEBUG - Fuel needed so far is: 18740 and remaining fuel to calculate is 465
+root - DEBUG - Calculating for y: 465
+root - DEBUG - Fuel needed so far is: 18893 and remaining fuel to calculate is 153
+root - DEBUG - Calculating for y: 153
+root - DEBUG - Fuel needed so far is: 18942 and remaining fuel to calculate is 49
+root - DEBUG - Calculating for y: 49
+root - DEBUG - Fuel needed so far is: 18956 and remaining fuel to calculate is 14
+root - DEBUG - Calculating for y: 14
+root - DEBUG - Fuel needed so far is: 18958 and remaining fuel to calculate is 2
+root - DEBUG - Total fuel required for 37976 is 18958
+root - DEBUG - Total fuel required for 113935 is 56934
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:84907
+root - DEBUG - Fuel required for 84907 is 28300
+root - DEBUG - Total fuel needed so far is: 2607513
+root - DEBUG - We need to calculate fuel needed for fuel amount: 28300
+root - DEBUG - Calculating for y: 28300
+root - DEBUG - Fuel needed so far is: 9431 and remaining fuel to calculate is 9431
+root - DEBUG - Calculating for y: 9431
+root - DEBUG - Fuel needed so far is: 12572 and remaining fuel to calculate is 3141
+root - DEBUG - Calculating for y: 3141
+root - DEBUG - Fuel needed so far is: 13617 and remaining fuel to calculate is 1045
+root - DEBUG - Calculating for y: 1045
+root - DEBUG - Fuel needed so far is: 13963 and remaining fuel to calculate is 346
+root - DEBUG - Calculating for y: 346
+root - DEBUG - Fuel needed so far is: 14076 and remaining fuel to calculate is 113
+root - DEBUG - Calculating for y: 113
+root - DEBUG - Fuel needed so far is: 14111 and remaining fuel to calculate is 35
+root - DEBUG - Calculating for y: 35
+root - DEBUG - Fuel needed so far is: 14120 and remaining fuel to calculate is 9
+root - DEBUG - Calculating for y: 9
+root - DEBUG - Fuel needed so far is: 14121 and remaining fuel to calculate is 1
+root - DEBUG - Total fuel required for 28300 is 14121
+root - DEBUG - Total fuel required for 84907 is 42421
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:113698
+root - DEBUG - Fuel required for 113698 is 37897
+root - DEBUG - Total fuel needed so far is: 2659531
+root - DEBUG - We need to calculate fuel needed for fuel amount: 37897
+root - DEBUG - Calculating for y: 37897
+root - DEBUG - Fuel needed so far is: 12630 and remaining fuel to calculate is 12630
+root - DEBUG - Calculating for y: 12630
+root - DEBUG - Fuel needed so far is: 16838 and remaining fuel to calculate is 4208
+root - DEBUG - Calculating for y: 4208
+root - DEBUG - Fuel needed so far is: 18238 and remaining fuel to calculate is 1400
+root - DEBUG - Calculating for y: 1400
+root - DEBUG - Fuel needed so far is: 18702 and remaining fuel to calculate is 464
+root - DEBUG - Calculating for y: 464
+root - DEBUG - Fuel needed so far is: 18854 and remaining fuel to calculate is 152
+root - DEBUG - Calculating for y: 152
+root - DEBUG - Fuel needed so far is: 18902 and remaining fuel to calculate is 48
+root - DEBUG - Calculating for y: 48
+root - DEBUG - Fuel needed so far is: 18916 and remaining fuel to calculate is 14
+root - DEBUG - Calculating for y: 14
+root - DEBUG - Fuel needed so far is: 18918 and remaining fuel to calculate is 2
+root - DEBUG - Total fuel required for 37897 is 18918
+root - DEBUG - Total fuel required for 113698 is 56815
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:117240
+root - DEBUG - Fuel required for 117240 is 39078
+root - DEBUG - Total fuel needed so far is: 2717527
+root - DEBUG - We need to calculate fuel needed for fuel amount: 39078
+root - DEBUG - Calculating for y: 39078
+root - DEBUG - Fuel needed so far is: 13024 and remaining fuel to calculate is 13024
+root - DEBUG - Calculating for y: 13024
+root - DEBUG - Fuel needed so far is: 17363 and remaining fuel to calculate is 4339
+root - DEBUG - Calculating for y: 4339
+root - DEBUG - Fuel needed so far is: 18807 and remaining fuel to calculate is 1444
+root - DEBUG - Calculating for y: 1444
+root - DEBUG - Fuel needed so far is: 19286 and remaining fuel to calculate is 479
+root - DEBUG - Calculating for y: 479
+root - DEBUG - Fuel needed so far is: 19443 and remaining fuel to calculate is 157
+root - DEBUG - Calculating for y: 157
+root - DEBUG - Fuel needed so far is: 19493 and remaining fuel to calculate is 50
+root - DEBUG - Calculating for y: 50
+root - DEBUG - Fuel needed so far is: 19507 and remaining fuel to calculate is 14
+root - DEBUG - Calculating for y: 14
+root - DEBUG - Fuel needed so far is: 19509 and remaining fuel to calculate is 2
+root - DEBUG - Total fuel required for 39078 is 19509
+root - DEBUG - Total fuel required for 117240 is 58587
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:129327
+root - DEBUG - Fuel required for 129327 is 43107
+root - DEBUG - Total fuel needed so far is: 2780143
+root - DEBUG - We need to calculate fuel needed for fuel amount: 43107
+root - DEBUG - Calculating for y: 43107
+root - DEBUG - Fuel needed so far is: 14367 and remaining fuel to calculate is 14367
+root - DEBUG - Calculating for y: 14367
+root - DEBUG - Fuel needed so far is: 19154 and remaining fuel to calculate is 4787
+root - DEBUG - Calculating for y: 4787
+root - DEBUG - Fuel needed so far is: 20747 and remaining fuel to calculate is 1593
+root - DEBUG - Calculating for y: 1593
+root - DEBUG - Fuel needed so far is: 21276 and remaining fuel to calculate is 529
+root - DEBUG - Calculating for y: 529
+root - DEBUG - Fuel needed so far is: 21450 and remaining fuel to calculate is 174
+root - DEBUG - Calculating for y: 174
+root - DEBUG - Fuel needed so far is: 21506 and remaining fuel to calculate is 56
+root - DEBUG - Calculating for y: 56
+root - DEBUG - Fuel needed so far is: 21522 and remaining fuel to calculate is 16
+root - DEBUG - Calculating for y: 16
+root - DEBUG - Fuel needed so far is: 21525 and remaining fuel to calculate is 3
+root - DEBUG - Total fuel required for 43107 is 21525
+root - DEBUG - Total fuel required for 129327 is 64632
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:78837
+root - DEBUG - Fuel required for 78837 is 26277
+root - DEBUG - Total fuel needed so far is: 2827945
+root - DEBUG - We need to calculate fuel needed for fuel amount: 26277
+root - DEBUG - Calculating for y: 26277
+root - DEBUG - Fuel needed so far is: 8757 and remaining fuel to calculate is 8757
+root - DEBUG - Calculating for y: 8757
+root - DEBUG - Fuel needed so far is: 11674 and remaining fuel to calculate is 2917
+root - DEBUG - Calculating for y: 2917
+root - DEBUG - Fuel needed so far is: 12644 and remaining fuel to calculate is 970
+root - DEBUG - Calculating for y: 970
+root - DEBUG - Fuel needed so far is: 12965 and remaining fuel to calculate is 321
+root - DEBUG - Calculating for y: 321
+root - DEBUG - Fuel needed so far is: 13070 and remaining fuel to calculate is 105
+root - DEBUG - Calculating for y: 105
+root - DEBUG - Fuel needed so far is: 13103 and remaining fuel to calculate is 33
+root - DEBUG - Calculating for y: 33
+root - DEBUG - Fuel needed so far is: 13112 and remaining fuel to calculate is 9
+root - DEBUG - Calculating for y: 9
+root - DEBUG - Fuel needed so far is: 13113 and remaining fuel to calculate is 1
+root - DEBUG - Total fuel required for 26277 is 13113
+root - DEBUG - Total fuel required for 78837 is 39390
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:144841
+root - DEBUG - Fuel required for 144841 is 48278
+root - DEBUG - Total fuel needed so far is: 2889336
+root - DEBUG - We need to calculate fuel needed for fuel amount: 48278
+root - DEBUG - Calculating for y: 48278
+root - DEBUG - Fuel needed so far is: 16090 and remaining fuel to calculate is 16090
+root - DEBUG - Calculating for y: 16090
+root - DEBUG - Fuel needed so far is: 21451 and remaining fuel to calculate is 5361
+root - DEBUG - Calculating for y: 5361
+root - DEBUG - Fuel needed so far is: 23236 and remaining fuel to calculate is 1785
+root - DEBUG - Calculating for y: 1785
+root - DEBUG - Fuel needed so far is: 23829 and remaining fuel to calculate is 593
+root - DEBUG - Calculating for y: 593
+root - DEBUG - Fuel needed so far is: 24024 and remaining fuel to calculate is 195
+root - DEBUG - Calculating for y: 195
+root - DEBUG - Fuel needed so far is: 24087 and remaining fuel to calculate is 63
+root - DEBUG - Calculating for y: 63
+root - DEBUG - Fuel needed so far is: 24106 and remaining fuel to calculate is 19
+root - DEBUG - Calculating for y: 19
+root - DEBUG - Fuel needed so far is: 24110 and remaining fuel to calculate is 4
+root - DEBUG - Total fuel required for 48278 is 24110
+root - DEBUG - Total fuel required for 144841 is 72388
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:138054
+root - DEBUG - Fuel required for 138054 is 46016
+root - DEBUG - Total fuel needed so far is: 2959462
+root - DEBUG - We need to calculate fuel needed for fuel amount: 46016
+root - DEBUG - Calculating for y: 46016
+root - DEBUG - Fuel needed so far is: 15336 and remaining fuel to calculate is 15336
+root - DEBUG - Calculating for y: 15336
+root - DEBUG - Fuel needed so far is: 20446 and remaining fuel to calculate is 5110
+root - DEBUG - Calculating for y: 5110
+root - DEBUG - Fuel needed so far is: 22147 and remaining fuel to calculate is 1701
+root - DEBUG - Calculating for y: 1701
+root - DEBUG - Fuel needed so far is: 22712 and remaining fuel to calculate is 565
+root - DEBUG - Calculating for y: 565
+root - DEBUG - Fuel needed so far is: 22898 and remaining fuel to calculate is 186
+root - DEBUG - Calculating for y: 186
+root - DEBUG - Fuel needed so far is: 22958 and remaining fuel to calculate is 60
+root - DEBUG - Calculating for y: 60
+root - DEBUG - Fuel needed so far is: 22976 and remaining fuel to calculate is 18
+root - DEBUG - Calculating for y: 18
+root - DEBUG - Fuel needed so far is: 22980 and remaining fuel to calculate is 4
+root - DEBUG - Total fuel required for 46016 is 22980
+root - DEBUG - Total fuel required for 138054 is 68996
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:130990
+root - DEBUG - Fuel required for 130990 is 43661
+root - DEBUG - Total fuel needed so far is: 3026103
+root - DEBUG - We need to calculate fuel needed for fuel amount: 43661
+root - DEBUG - Calculating for y: 43661
+root - DEBUG - Fuel needed so far is: 14551 and remaining fuel to calculate is 14551
+root - DEBUG - Calculating for y: 14551
+root - DEBUG - Fuel needed so far is: 19399 and remaining fuel to calculate is 4848
+root - DEBUG - Calculating for y: 4848
+root - DEBUG - Fuel needed so far is: 21013 and remaining fuel to calculate is 1614
+root - DEBUG - Calculating for y: 1614
+root - DEBUG - Fuel needed so far is: 21549 and remaining fuel to calculate is 536
+root - DEBUG - Calculating for y: 536
+root - DEBUG - Fuel needed so far is: 21725 and remaining fuel to calculate is 176
+root - DEBUG - Calculating for y: 176
+root - DEBUG - Fuel needed so far is: 21781 and remaining fuel to calculate is 56
+root - DEBUG - Calculating for y: 56
+root - DEBUG - Fuel needed so far is: 21797 and remaining fuel to calculate is 16
+root - DEBUG - Calculating for y: 16
+root - DEBUG - Fuel needed so far is: 21800 and remaining fuel to calculate is 3
+root - DEBUG - Total fuel required for 43661 is 21800
+root - DEBUG - Total fuel required for 130990 is 65461
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:100191
+root - DEBUG - Fuel required for 100191 is 33395
+root - DEBUG - Total fuel needed so far is: 3081298
+root - DEBUG - We need to calculate fuel needed for fuel amount: 33395
+root - DEBUG - Calculating for y: 33395
+root - DEBUG - Fuel needed so far is: 11129 and remaining fuel to calculate is 11129
+root - DEBUG - Calculating for y: 11129
+root - DEBUG - Fuel needed so far is: 14836 and remaining fuel to calculate is 3707
+root - DEBUG - Calculating for y: 3707
+root - DEBUG - Fuel needed so far is: 16069 and remaining fuel to calculate is 1233
+root - DEBUG - Calculating for y: 1233
+root - DEBUG - Fuel needed so far is: 16478 and remaining fuel to calculate is 409
+root - DEBUG - Calculating for y: 409
+root - DEBUG - Fuel needed so far is: 16612 and remaining fuel to calculate is 134
+root - DEBUG - Calculating for y: 134
+root - DEBUG - Fuel needed so far is: 16654 and remaining fuel to calculate is 42
+root - DEBUG - Calculating for y: 42
+root - DEBUG - Fuel needed so far is: 16666 and remaining fuel to calculate is 12
+root - DEBUG - Calculating for y: 12
+root - DEBUG - Fuel needed so far is: 16668 and remaining fuel to calculate is 2
+root - DEBUG - Total fuel required for 33395 is 16668
+root - DEBUG - Total fuel required for 100191 is 50063
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:141768
+root - DEBUG - Fuel required for 141768 is 47254
+root - DEBUG - Total fuel needed so far is: 3145220
+root - DEBUG - We need to calculate fuel needed for fuel amount: 47254
+root - DEBUG - Calculating for y: 47254
+root - DEBUG - Fuel needed so far is: 15749 and remaining fuel to calculate is 15749
+root - DEBUG - Calculating for y: 15749
+root - DEBUG - Fuel needed so far is: 20996 and remaining fuel to calculate is 5247
+root - DEBUG - Calculating for y: 5247
+root - DEBUG - Fuel needed so far is: 22743 and remaining fuel to calculate is 1747
+root - DEBUG - Calculating for y: 1747
+root - DEBUG - Fuel needed so far is: 23323 and remaining fuel to calculate is 580
+root - DEBUG - Calculating for y: 580
+root - DEBUG - Fuel needed so far is: 23514 and remaining fuel to calculate is 191
+root - DEBUG - Calculating for y: 191
+root - DEBUG - Fuel needed so far is: 23575 and remaining fuel to calculate is 61
+root - DEBUG - Calculating for y: 61
+root - DEBUG - Fuel needed so far is: 23593 and remaining fuel to calculate is 18
+root - DEBUG - Calculating for y: 18
+root - DEBUG - Fuel needed so far is: 23597 and remaining fuel to calculate is 4
+root - DEBUG - Total fuel required for 47254 is 23597
+root - DEBUG - Total fuel required for 141768 is 70851
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:138941
+root - DEBUG - Fuel required for 138941 is 46311
+root - DEBUG - Total fuel needed so far is: 3215128
+root - DEBUG - We need to calculate fuel needed for fuel amount: 46311
+root - DEBUG - Calculating for y: 46311
+root - DEBUG - Fuel needed so far is: 15435 and remaining fuel to calculate is 15435
+root - DEBUG - Calculating for y: 15435
+root - DEBUG - Fuel needed so far is: 20578 and remaining fuel to calculate is 5143
+root - DEBUG - Calculating for y: 5143
+root - DEBUG - Fuel needed so far is: 22290 and remaining fuel to calculate is 1712
+root - DEBUG - Calculating for y: 1712
+root - DEBUG - Fuel needed so far is: 22858 and remaining fuel to calculate is 568
+root - DEBUG - Calculating for y: 568
+root - DEBUG - Fuel needed so far is: 23045 and remaining fuel to calculate is 187
+root - DEBUG - Calculating for y: 187
+root - DEBUG - Fuel needed so far is: 23105 and remaining fuel to calculate is 60
+root - DEBUG - Calculating for y: 60
+root - DEBUG - Fuel needed so far is: 23123 and remaining fuel to calculate is 18
+root - DEBUG - Calculating for y: 18
+root - DEBUG - Fuel needed so far is: 23127 and remaining fuel to calculate is 4
+root - DEBUG - Total fuel required for 46311 is 23127
+root - DEBUG - Total fuel required for 138941 is 69438
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:108165
+root - DEBUG - Fuel required for 108165 is 36053
+root - DEBUG - Total fuel needed so far is: 3274308
+root - DEBUG - We need to calculate fuel needed for fuel amount: 36053
+root - DEBUG - Calculating for y: 36053
+root - DEBUG - Fuel needed so far is: 12015 and remaining fuel to calculate is 12015
+root - DEBUG - Calculating for y: 12015
+root - DEBUG - Fuel needed so far is: 16018 and remaining fuel to calculate is 4003
+root - DEBUG - Calculating for y: 4003
+root - DEBUG - Fuel needed so far is: 17350 and remaining fuel to calculate is 1332
+root - DEBUG - Calculating for y: 1332
+root - DEBUG - Fuel needed so far is: 17792 and remaining fuel to calculate is 442
+root - DEBUG - Calculating for y: 442
+root - DEBUG - Fuel needed so far is: 17937 and remaining fuel to calculate is 145
+root - DEBUG - Calculating for y: 145
+root - DEBUG - Fuel needed so far is: 17983 and remaining fuel to calculate is 46
+root - DEBUG - Calculating for y: 46
+root - DEBUG - Fuel needed so far is: 17996 and remaining fuel to calculate is 13
+root - DEBUG - Calculating for y: 13
+root - DEBUG - Fuel needed so far is: 17998 and remaining fuel to calculate is 2
+root - DEBUG - Total fuel required for 36053 is 17998
+root - DEBUG - Total fuel required for 108165 is 54051
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:62138
+root - DEBUG - Fuel required for 62138 is 20710
+root - DEBUG - Total fuel needed so far is: 3313016
+root - DEBUG - We need to calculate fuel needed for fuel amount: 20710
+root - DEBUG - Calculating for y: 20710
+root - DEBUG - Fuel needed so far is: 6901 and remaining fuel to calculate is 6901
+root - DEBUG - Calculating for y: 6901
+root - DEBUG - Fuel needed so far is: 9199 and remaining fuel to calculate is 2298
+root - DEBUG - Calculating for y: 2298
+root - DEBUG - Fuel needed so far is: 9963 and remaining fuel to calculate is 764
+root - DEBUG - Calculating for y: 764
+root - DEBUG - Fuel needed so far is: 10215 and remaining fuel to calculate is 252
+root - DEBUG - Calculating for y: 252
+root - DEBUG - Fuel needed so far is: 10297 and remaining fuel to calculate is 82
+root - DEBUG - Calculating for y: 82
+root - DEBUG - Fuel needed so far is: 10322 and remaining fuel to calculate is 25
+root - DEBUG - Calculating for y: 25
+root - DEBUG - Fuel needed so far is: 10328 and remaining fuel to calculate is 6
+root - DEBUG - Calculating for y: 6
+root - DEBUG - Fuel needed so far is: 10328 and remaining fuel to calculate is 0
+root - DEBUG - Total fuel required for 20710 is 10328
+root - DEBUG - Total fuel required for 62138 is 31038
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:121690
+root - DEBUG - Fuel required for 121690 is 40561
+root - DEBUG - Total fuel needed so far is: 3363905
+root - DEBUG - We need to calculate fuel needed for fuel amount: 40561
+root - DEBUG - Calculating for y: 40561
+root - DEBUG - Fuel needed so far is: 13518 and remaining fuel to calculate is 13518
+root - DEBUG - Calculating for y: 13518
+root - DEBUG - Fuel needed so far is: 18022 and remaining fuel to calculate is 4504
+root - DEBUG - Calculating for y: 4504
+root - DEBUG - Fuel needed so far is: 19521 and remaining fuel to calculate is 1499
+root - DEBUG - Calculating for y: 1499
+root - DEBUG - Fuel needed so far is: 20018 and remaining fuel to calculate is 497
+root - DEBUG - Calculating for y: 497
+root - DEBUG - Fuel needed so far is: 20181 and remaining fuel to calculate is 163
+root - DEBUG - Calculating for y: 163
+root - DEBUG - Fuel needed so far is: 20233 and remaining fuel to calculate is 52
+root - DEBUG - Calculating for y: 52
+root - DEBUG - Fuel needed so far is: 20248 and remaining fuel to calculate is 15
+root - DEBUG - Calculating for y: 15
+root - DEBUG - Fuel needed so far is: 20251 and remaining fuel to calculate is 3
+root - DEBUG - Total fuel required for 40561 is 20251
+root - DEBUG - Total fuel required for 121690 is 60812
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:117305
+root - DEBUG - Fuel required for 117305 is 39099
+root - DEBUG - Total fuel needed so far is: 3423255
+root - DEBUG - We need to calculate fuel needed for fuel amount: 39099
+root - DEBUG - Calculating for y: 39099
+root - DEBUG - Fuel needed so far is: 13031 and remaining fuel to calculate is 13031
+root - DEBUG - Calculating for y: 13031
+root - DEBUG - Fuel needed so far is: 17372 and remaining fuel to calculate is 4341
+root - DEBUG - Calculating for y: 4341
+root - DEBUG - Fuel needed so far is: 18817 and remaining fuel to calculate is 1445
+root - DEBUG - Calculating for y: 1445
+root - DEBUG - Fuel needed so far is: 19296 and remaining fuel to calculate is 479
+root - DEBUG - Calculating for y: 479
+root - DEBUG - Fuel needed so far is: 19453 and remaining fuel to calculate is 157
+root - DEBUG - Calculating for y: 157
+root - DEBUG - Fuel needed so far is: 19503 and remaining fuel to calculate is 50
+root - DEBUG - Calculating for y: 50
+root - DEBUG - Fuel needed so far is: 19517 and remaining fuel to calculate is 14
+root - DEBUG - Calculating for y: 14
+root - DEBUG - Fuel needed so far is: 19519 and remaining fuel to calculate is 2
+root - DEBUG - Total fuel required for 39099 is 19519
+root - DEBUG - Total fuel required for 117305 is 58618
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:90147
+root - DEBUG - Fuel required for 90147 is 30047
+root - DEBUG - Total fuel needed so far is: 3472821
+root - DEBUG - We need to calculate fuel needed for fuel amount: 30047
+root - DEBUG - Calculating for y: 30047
+root - DEBUG - Fuel needed so far is: 10013 and remaining fuel to calculate is 10013
+root - DEBUG - Calculating for y: 10013
+root - DEBUG - Fuel needed so far is: 13348 and remaining fuel to calculate is 3335
+root - DEBUG - Calculating for y: 3335
+root - DEBUG - Fuel needed so far is: 14457 and remaining fuel to calculate is 1109
+root - DEBUG - Calculating for y: 1109
+root - DEBUG - Fuel needed so far is: 14824 and remaining fuel to calculate is 367
+root - DEBUG - Calculating for y: 367
+root - DEBUG - Fuel needed so far is: 14944 and remaining fuel to calculate is 120
+root - DEBUG - Calculating for y: 120
+root - DEBUG - Fuel needed so far is: 14982 and remaining fuel to calculate is 38
+root - DEBUG - Calculating for y: 38
+root - DEBUG - Fuel needed so far is: 14992 and remaining fuel to calculate is 10
+root - DEBUG - Calculating for y: 10
+root - DEBUG - Fuel needed so far is: 14993 and remaining fuel to calculate is 1
+root - DEBUG - Total fuel required for 30047 is 14993
+root - DEBUG - Total fuel required for 90147 is 45040
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:134422
+root - DEBUG - Fuel required for 134422 is 44805
+root - DEBUG - Total fuel needed so far is: 3532619
+root - DEBUG - We need to calculate fuel needed for fuel amount: 44805
+root - DEBUG - Calculating for y: 44805
+root - DEBUG - Fuel needed so far is: 14933 and remaining fuel to calculate is 14933
+root - DEBUG - Calculating for y: 14933
+root - DEBUG - Fuel needed so far is: 19908 and remaining fuel to calculate is 4975
+root - DEBUG - Calculating for y: 4975
+root - DEBUG - Fuel needed so far is: 21564 and remaining fuel to calculate is 1656
+root - DEBUG - Calculating for y: 1656
+root - DEBUG - Fuel needed so far is: 22114 and remaining fuel to calculate is 550
+root - DEBUG - Calculating for y: 550
+root - DEBUG - Fuel needed so far is: 22295 and remaining fuel to calculate is 181
+root - DEBUG - Calculating for y: 181
+root - DEBUG - Fuel needed so far is: 22353 and remaining fuel to calculate is 58
+root - DEBUG - Calculating for y: 58
+root - DEBUG - Fuel needed so far is: 22370 and remaining fuel to calculate is 17
+root - DEBUG - Calculating for y: 17
+root - DEBUG - Fuel needed so far is: 22373 and remaining fuel to calculate is 3
+root - DEBUG - Total fuel required for 44805 is 22373
+root - DEBUG - Total fuel required for 134422 is 67178
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:78031
+root - DEBUG - Fuel required for 78031 is 26008
+root - DEBUG - Total fuel needed so far is: 3581000
+root - DEBUG - We need to calculate fuel needed for fuel amount: 26008
+root - DEBUG - Calculating for y: 26008
+root - DEBUG - Fuel needed so far is: 8667 and remaining fuel to calculate is 8667
+root - DEBUG - Calculating for y: 8667
+root - DEBUG - Fuel needed so far is: 11554 and remaining fuel to calculate is 2887
+root - DEBUG - Calculating for y: 2887
+root - DEBUG - Fuel needed so far is: 12514 and remaining fuel to calculate is 960
+root - DEBUG - Calculating for y: 960
+root - DEBUG - Fuel needed so far is: 12832 and remaining fuel to calculate is 318
+root - DEBUG - Calculating for y: 318
+root - DEBUG - Fuel needed so far is: 12936 and remaining fuel to calculate is 104
+root - DEBUG - Calculating for y: 104
+root - DEBUG - Fuel needed so far is: 12968 and remaining fuel to calculate is 32
+root - DEBUG - Calculating for y: 32
+root - DEBUG - Fuel needed so far is: 12976 and remaining fuel to calculate is 8
+root - DEBUG - Calculating for y: 8
+root - DEBUG - Fuel needed so far is: 12976 and remaining fuel to calculate is 0
+root - DEBUG - Total fuel required for 26008 is 12976
+root - DEBUG - Total fuel required for 78031 is 38984
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:121331
+root - DEBUG - Fuel required for 121331 is 40441
+root - DEBUG - Total fuel needed so far is: 3634417
+root - DEBUG - We need to calculate fuel needed for fuel amount: 40441
+root - DEBUG - Calculating for y: 40441
+root - DEBUG - Fuel needed so far is: 13478 and remaining fuel to calculate is 13478
+root - DEBUG - Calculating for y: 13478
+root - DEBUG - Fuel needed so far is: 17968 and remaining fuel to calculate is 4490
+root - DEBUG - Calculating for y: 4490
+root - DEBUG - Fuel needed so far is: 19462 and remaining fuel to calculate is 1494
+root - DEBUG - Calculating for y: 1494
+root - DEBUG - Fuel needed so far is: 19958 and remaining fuel to calculate is 496
+root - DEBUG - Calculating for y: 496
+root - DEBUG - Fuel needed so far is: 20121 and remaining fuel to calculate is 163
+root - DEBUG - Calculating for y: 163
+root - DEBUG - Fuel needed so far is: 20173 and remaining fuel to calculate is 52
+root - DEBUG - Calculating for y: 52
+root - DEBUG - Fuel needed so far is: 20188 and remaining fuel to calculate is 15
+root - DEBUG - Calculating for y: 15
+root - DEBUG - Fuel needed so far is: 20191 and remaining fuel to calculate is 3
+root - DEBUG - Total fuel required for 40441 is 20191
+root - DEBUG - Total fuel required for 121331 is 60632
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:120947
+root - DEBUG - Fuel required for 120947 is 40313
+root - DEBUG - Total fuel needed so far is: 3694921
+root - DEBUG - We need to calculate fuel needed for fuel amount: 40313
+root - DEBUG - Calculating for y: 40313
+root - DEBUG - Fuel needed so far is: 13435 and remaining fuel to calculate is 13435
+root - DEBUG - Calculating for y: 13435
+root - DEBUG - Fuel needed so far is: 17911 and remaining fuel to calculate is 4476
+root - DEBUG - Calculating for y: 4476
+root - DEBUG - Fuel needed so far is: 19401 and remaining fuel to calculate is 1490
+root - DEBUG - Calculating for y: 1490
+root - DEBUG - Fuel needed so far is: 19895 and remaining fuel to calculate is 494
+root - DEBUG - Calculating for y: 494
+root - DEBUG - Fuel needed so far is: 20057 and remaining fuel to calculate is 162
+root - DEBUG - Calculating for y: 162
+root - DEBUG - Fuel needed so far is: 20109 and remaining fuel to calculate is 52
+root - DEBUG - Calculating for y: 52
+root - DEBUG - Fuel needed so far is: 20124 and remaining fuel to calculate is 15
+root - DEBUG - Calculating for y: 15
+root - DEBUG - Fuel needed so far is: 20127 and remaining fuel to calculate is 3
+root - DEBUG - Total fuel required for 40313 is 20127
+root - DEBUG - Total fuel required for 120947 is 60440
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:120235
+root - DEBUG - Fuel required for 120235 is 40076
+root - DEBUG - Total fuel needed so far is: 3755124
+root - DEBUG - We need to calculate fuel needed for fuel amount: 40076
+root - DEBUG - Calculating for y: 40076
+root - DEBUG - Fuel needed so far is: 13356 and remaining fuel to calculate is 13356
+root - DEBUG - Calculating for y: 13356
+root - DEBUG - Fuel needed so far is: 17806 and remaining fuel to calculate is 4450
+root - DEBUG - Calculating for y: 4450
+root - DEBUG - Fuel needed so far is: 19287 and remaining fuel to calculate is 1481
+root - DEBUG - Calculating for y: 1481
+root - DEBUG - Fuel needed so far is: 19778 and remaining fuel to calculate is 491
+root - DEBUG - Calculating for y: 491
+root - DEBUG - Fuel needed so far is: 19939 and remaining fuel to calculate is 161
+root - DEBUG - Calculating for y: 161
+root - DEBUG - Fuel needed so far is: 19990 and remaining fuel to calculate is 51
+root - DEBUG - Calculating for y: 51
+root - DEBUG - Fuel needed so far is: 20005 and remaining fuel to calculate is 15
+root - DEBUG - Calculating for y: 15
+root - DEBUG - Fuel needed so far is: 20008 and remaining fuel to calculate is 3
+root - DEBUG - Total fuel required for 40076 is 20008
+root - DEBUG - Total fuel required for 120235 is 60084
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:138880
+root - DEBUG - Fuel required for 138880 is 46291
+root - DEBUG - Total fuel needed so far is: 3821423
+root - DEBUG - We need to calculate fuel needed for fuel amount: 46291
+root - DEBUG - Calculating for y: 46291
+root - DEBUG - Fuel needed so far is: 15428 and remaining fuel to calculate is 15428
+root - DEBUG - Calculating for y: 15428
+root - DEBUG - Fuel needed so far is: 20568 and remaining fuel to calculate is 5140
+root - DEBUG - Calculating for y: 5140
+root - DEBUG - Fuel needed so far is: 22279 and remaining fuel to calculate is 1711
+root - DEBUG - Calculating for y: 1711
+root - DEBUG - Fuel needed so far is: 22847 and remaining fuel to calculate is 568
+root - DEBUG - Calculating for y: 568
+root - DEBUG - Fuel needed so far is: 23034 and remaining fuel to calculate is 187
+root - DEBUG - Calculating for y: 187
+root - DEBUG - Fuel needed so far is: 23094 and remaining fuel to calculate is 60
+root - DEBUG - Calculating for y: 60
+root - DEBUG - Fuel needed so far is: 23112 and remaining fuel to calculate is 18
+root - DEBUG - Calculating for y: 18
+root - DEBUG - Fuel needed so far is: 23116 and remaining fuel to calculate is 4
+root - DEBUG - Total fuel required for 46291 is 23116
+root - DEBUG - Total fuel required for 138880 is 69407
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:141076
+root - DEBUG - Fuel required for 141076 is 47023
+root - DEBUG - Total fuel needed so far is: 3891562
+root - DEBUG - We need to calculate fuel needed for fuel amount: 47023
+root - DEBUG - Calculating for y: 47023
+root - DEBUG - Fuel needed so far is: 15672 and remaining fuel to calculate is 15672
+root - DEBUG - Calculating for y: 15672
+root - DEBUG - Fuel needed so far is: 20894 and remaining fuel to calculate is 5222
+root - DEBUG - Calculating for y: 5222
+root - DEBUG - Fuel needed so far is: 22632 and remaining fuel to calculate is 1738
+root - DEBUG - Calculating for y: 1738
+root - DEBUG - Fuel needed so far is: 23209 and remaining fuel to calculate is 577
+root - DEBUG - Calculating for y: 577
+root - DEBUG - Fuel needed so far is: 23399 and remaining fuel to calculate is 190
+root - DEBUG - Calculating for y: 190
+root - DEBUG - Fuel needed so far is: 23460 and remaining fuel to calculate is 61
+root - DEBUG - Calculating for y: 61
+root - DEBUG - Fuel needed so far is: 23478 and remaining fuel to calculate is 18
+root - DEBUG - Calculating for y: 18
+root - DEBUG - Fuel needed so far is: 23482 and remaining fuel to calculate is 4
+root - DEBUG - Total fuel required for 47023 is 23482
+root - DEBUG - Total fuel required for 141076 is 70505
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:119480
+root - DEBUG - Fuel required for 119480 is 39824
+root - DEBUG - Total fuel needed so far is: 3954868
+root - DEBUG - We need to calculate fuel needed for fuel amount: 39824
+root - DEBUG - Calculating for y: 39824
+root - DEBUG - Fuel needed so far is: 13272 and remaining fuel to calculate is 13272
+root - DEBUG - Calculating for y: 13272
+root - DEBUG - Fuel needed so far is: 17694 and remaining fuel to calculate is 4422
+root - DEBUG - Calculating for y: 4422
+root - DEBUG - Fuel needed so far is: 19166 and remaining fuel to calculate is 1472
+root - DEBUG - Calculating for y: 1472
+root - DEBUG - Fuel needed so far is: 19654 and remaining fuel to calculate is 488
+root - DEBUG - Calculating for y: 488
+root - DEBUG - Fuel needed so far is: 19814 and remaining fuel to calculate is 160
+root - DEBUG - Calculating for y: 160
+root - DEBUG - Fuel needed so far is: 19865 and remaining fuel to calculate is 51
+root - DEBUG - Calculating for y: 51
+root - DEBUG - Fuel needed so far is: 19880 and remaining fuel to calculate is 15
+root - DEBUG - Calculating for y: 15
+root - DEBUG - Fuel needed so far is: 19883 and remaining fuel to calculate is 3
+root - DEBUG - Total fuel required for 39824 is 19883
+root - DEBUG - Total fuel required for 119480 is 59707
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:66844
+root - DEBUG - Fuel required for 66844 is 22279
+root - DEBUG - Total fuel needed so far is: 3997030
+root - DEBUG - We need to calculate fuel needed for fuel amount: 22279
+root - DEBUG - Calculating for y: 22279
+root - DEBUG - Fuel needed so far is: 7424 and remaining fuel to calculate is 7424
+root - DEBUG - Calculating for y: 7424
+root - DEBUG - Fuel needed so far is: 9896 and remaining fuel to calculate is 2472
+root - DEBUG - Calculating for y: 2472
+root - DEBUG - Fuel needed so far is: 10718 and remaining fuel to calculate is 822
+root - DEBUG - Calculating for y: 822
+root - DEBUG - Fuel needed so far is: 10990 and remaining fuel to calculate is 272
+root - DEBUG - Calculating for y: 272
+root - DEBUG - Fuel needed so far is: 11078 and remaining fuel to calculate is 88
+root - DEBUG - Calculating for y: 88
+root - DEBUG - Fuel needed so far is: 11105 and remaining fuel to calculate is 27
+root - DEBUG - Calculating for y: 27
+root - DEBUG - Fuel needed so far is: 11112 and remaining fuel to calculate is 7
+root - DEBUG - Calculating for y: 7
+root - DEBUG - Fuel needed so far is: 11112 and remaining fuel to calculate is 0
+root - DEBUG - Total fuel required for 22279 is 11112
+root - DEBUG - Total fuel required for 66844 is 33391
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:77660
+root - DEBUG - Fuel required for 77660 is 25884
+root - DEBUG - Total fuel needed so far is: 4034026
+root - DEBUG - We need to calculate fuel needed for fuel amount: 25884
+root - DEBUG - Calculating for y: 25884
+root - DEBUG - Fuel needed so far is: 8626 and remaining fuel to calculate is 8626
+root - DEBUG - Calculating for y: 8626
+root - DEBUG - Fuel needed so far is: 11499 and remaining fuel to calculate is 2873
+root - DEBUG - Calculating for y: 2873
+root - DEBUG - Fuel needed so far is: 12454 and remaining fuel to calculate is 955
+root - DEBUG - Calculating for y: 955
+root - DEBUG - Fuel needed so far is: 12770 and remaining fuel to calculate is 316
+root - DEBUG - Calculating for y: 316
+root - DEBUG - Fuel needed so far is: 12873 and remaining fuel to calculate is 103
+root - DEBUG - Calculating for y: 103
+root - DEBUG - Fuel needed so far is: 12905 and remaining fuel to calculate is 32
+root - DEBUG - Calculating for y: 32
+root - DEBUG - Fuel needed so far is: 12913 and remaining fuel to calculate is 8
+root - DEBUG - Calculating for y: 8
+root - DEBUG - Fuel needed so far is: 12913 and remaining fuel to calculate is 0
+root - DEBUG - Total fuel required for 25884 is 12913
+root - DEBUG - Total fuel required for 77660 is 38797
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:106364
+root - DEBUG - Fuel required for 106364 is 35452
+root - DEBUG - Total fuel needed so far is: 4082391
+root - DEBUG - We need to calculate fuel needed for fuel amount: 35452
+root - DEBUG - Calculating for y: 35452
+root - DEBUG - Fuel needed so far is: 11815 and remaining fuel to calculate is 11815
+root - DEBUG - Calculating for y: 11815
+root - DEBUG - Fuel needed so far is: 15751 and remaining fuel to calculate is 3936
+root - DEBUG - Calculating for y: 3936
+root - DEBUG - Fuel needed so far is: 17061 and remaining fuel to calculate is 1310
+root - DEBUG - Calculating for y: 1310
+root - DEBUG - Fuel needed so far is: 17495 and remaining fuel to calculate is 434
+root - DEBUG - Calculating for y: 434
+root - DEBUG - Fuel needed so far is: 17637 and remaining fuel to calculate is 142
+root - DEBUG - Calculating for y: 142
+root - DEBUG - Fuel needed so far is: 17682 and remaining fuel to calculate is 45
+root - DEBUG - Calculating for y: 45
+root - DEBUG - Fuel needed so far is: 17695 and remaining fuel to calculate is 13
+root - DEBUG - Calculating for y: 13
+root - DEBUG - Fuel needed so far is: 17697 and remaining fuel to calculate is 2
+root - DEBUG - Total fuel required for 35452 is 17697
+root - DEBUG - Total fuel required for 106364 is 53149
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:99187
+root - DEBUG - Fuel required for 99187 is 33060
+root - DEBUG - Total fuel needed so far is: 4133148
+root - DEBUG - We need to calculate fuel needed for fuel amount: 33060
+root - DEBUG - Calculating for y: 33060
+root - DEBUG - Fuel needed so far is: 11018 and remaining fuel to calculate is 11018
+root - DEBUG - Calculating for y: 11018
+root - DEBUG - Fuel needed so far is: 14688 and remaining fuel to calculate is 3670
+root - DEBUG - Calculating for y: 3670
+root - DEBUG - Fuel needed so far is: 15909 and remaining fuel to calculate is 1221
+root - DEBUG - Calculating for y: 1221
+root - DEBUG - Fuel needed so far is: 16314 and remaining fuel to calculate is 405
+root - DEBUG - Calculating for y: 405
+root - DEBUG - Fuel needed so far is: 16447 and remaining fuel to calculate is 133
+root - DEBUG - Calculating for y: 133
+root - DEBUG - Fuel needed so far is: 16489 and remaining fuel to calculate is 42
+root - DEBUG - Calculating for y: 42
+root - DEBUG - Fuel needed so far is: 16501 and remaining fuel to calculate is 12
+root - DEBUG - Calculating for y: 12
+root - DEBUG - Fuel needed so far is: 16503 and remaining fuel to calculate is 2
+root - DEBUG - Total fuel required for 33060 is 16503
+root - DEBUG - Total fuel required for 99187 is 49563
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:144244
+root - DEBUG - Fuel required for 144244 is 48079
+root - DEBUG - Total fuel needed so far is: 4197730
+root - DEBUG - We need to calculate fuel needed for fuel amount: 48079
+root - DEBUG - Calculating for y: 48079
+root - DEBUG - Fuel needed so far is: 16024 and remaining fuel to calculate is 16024
+root - DEBUG - Calculating for y: 16024
+root - DEBUG - Fuel needed so far is: 21363 and remaining fuel to calculate is 5339
+root - DEBUG - Calculating for y: 5339
+root - DEBUG - Fuel needed so far is: 23140 and remaining fuel to calculate is 1777
+root - DEBUG - Calculating for y: 1777
+root - DEBUG - Fuel needed so far is: 23730 and remaining fuel to calculate is 590
+root - DEBUG - Calculating for y: 590
+root - DEBUG - Fuel needed so far is: 23924 and remaining fuel to calculate is 194
+root - DEBUG - Calculating for y: 194
+root - DEBUG - Fuel needed so far is: 23986 and remaining fuel to calculate is 62
+root - DEBUG - Calculating for y: 62
+root - DEBUG - Fuel needed so far is: 24004 and remaining fuel to calculate is 18
+root - DEBUG - Calculating for y: 18
+root - DEBUG - Fuel needed so far is: 24008 and remaining fuel to calculate is 4
+root - DEBUG - Total fuel required for 48079 is 24008
+root - DEBUG - Total fuel required for 144244 is 72087
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:120483
+root - DEBUG - Fuel required for 120483 is 40159
+root - DEBUG - Total fuel needed so far is: 4261897
+root - DEBUG - We need to calculate fuel needed for fuel amount: 40159
+root - DEBUG - Calculating for y: 40159
+root - DEBUG - Fuel needed so far is: 13384 and remaining fuel to calculate is 13384
+root - DEBUG - Calculating for y: 13384
+root - DEBUG - Fuel needed so far is: 17843 and remaining fuel to calculate is 4459
+root - DEBUG - Calculating for y: 4459
+root - DEBUG - Fuel needed so far is: 19327 and remaining fuel to calculate is 1484
+root - DEBUG - Calculating for y: 1484
+root - DEBUG - Fuel needed so far is: 19819 and remaining fuel to calculate is 492
+root - DEBUG - Calculating for y: 492
+root - DEBUG - Fuel needed so far is: 19981 and remaining fuel to calculate is 162
+root - DEBUG - Calculating for y: 162
+root - DEBUG - Fuel needed so far is: 20033 and remaining fuel to calculate is 52
+root - DEBUG - Calculating for y: 52
+root - DEBUG - Fuel needed so far is: 20048 and remaining fuel to calculate is 15
+root - DEBUG - Calculating for y: 15
+root - DEBUG - Fuel needed so far is: 20051 and remaining fuel to calculate is 3
+root - DEBUG - Total fuel required for 40159 is 20051
+root - DEBUG - Total fuel required for 120483 is 60210
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:77715
+root - DEBUG - Fuel required for 77715 is 25903
+root - DEBUG - Total fuel needed so far is: 4307851
+root - DEBUG - We need to calculate fuel needed for fuel amount: 25903
+root - DEBUG - Calculating for y: 25903
+root - DEBUG - Fuel needed so far is: 8632 and remaining fuel to calculate is 8632
+root - DEBUG - Calculating for y: 8632
+root - DEBUG - Fuel needed so far is: 11507 and remaining fuel to calculate is 2875
+root - DEBUG - Calculating for y: 2875
+root - DEBUG - Fuel needed so far is: 12463 and remaining fuel to calculate is 956
+root - DEBUG - Calculating for y: 956
+root - DEBUG - Fuel needed so far is: 12779 and remaining fuel to calculate is 316
+root - DEBUG - Calculating for y: 316
+root - DEBUG - Fuel needed so far is: 12882 and remaining fuel to calculate is 103
+root - DEBUG - Calculating for y: 103
+root - DEBUG - Fuel needed so far is: 12914 and remaining fuel to calculate is 32
+root - DEBUG - Calculating for y: 32
+root - DEBUG - Fuel needed so far is: 12922 and remaining fuel to calculate is 8
+root - DEBUG - Calculating for y: 8
+root - DEBUG - Fuel needed so far is: 12922 and remaining fuel to calculate is 0
+root - DEBUG - Total fuel required for 25903 is 12922
+root - DEBUG - Total fuel required for 77715 is 38825
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:135703
+root - DEBUG - Fuel required for 135703 is 45232
+root - DEBUG - Total fuel needed so far is: 4366005
+root - DEBUG - We need to calculate fuel needed for fuel amount: 45232
+root - DEBUG - Calculating for y: 45232
+root - DEBUG - Fuel needed so far is: 15075 and remaining fuel to calculate is 15075
+root - DEBUG - Calculating for y: 15075
+root - DEBUG - Fuel needed so far is: 20098 and remaining fuel to calculate is 5023
+root - DEBUG - Calculating for y: 5023
+root - DEBUG - Fuel needed so far is: 21770 and remaining fuel to calculate is 1672
+root - DEBUG - Calculating for y: 1672
+root - DEBUG - Fuel needed so far is: 22325 and remaining fuel to calculate is 555
+root - DEBUG - Calculating for y: 555
+root - DEBUG - Fuel needed so far is: 22508 and remaining fuel to calculate is 183
+root - DEBUG - Calculating for y: 183
+root - DEBUG - Fuel needed so far is: 22567 and remaining fuel to calculate is 59
+root - DEBUG - Calculating for y: 59
+root - DEBUG - Fuel needed so far is: 22584 and remaining fuel to calculate is 17
+root - DEBUG - Calculating for y: 17
+root - DEBUG - Fuel needed so far is: 22587 and remaining fuel to calculate is 3
+root - DEBUG - Total fuel required for 45232 is 22587
+root - DEBUG - Total fuel required for 135703 is 67819
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:125521
+root - DEBUG - Fuel required for 125521 is 41838
+root - DEBUG - Total fuel needed so far is: 4430430
+root - DEBUG - We need to calculate fuel needed for fuel amount: 41838
+root - DEBUG - Calculating for y: 41838
+root - DEBUG - Fuel needed so far is: 13944 and remaining fuel to calculate is 13944
+root - DEBUG - Calculating for y: 13944
+root - DEBUG - Fuel needed so far is: 18590 and remaining fuel to calculate is 4646
+root - DEBUG - Calculating for y: 4646
+root - DEBUG - Fuel needed so far is: 20136 and remaining fuel to calculate is 1546
+root - DEBUG - Calculating for y: 1546
+root - DEBUG - Fuel needed so far is: 20649 and remaining fuel to calculate is 513
+root - DEBUG - Calculating for y: 513
+root - DEBUG - Fuel needed so far is: 20818 and remaining fuel to calculate is 169
+root - DEBUG - Calculating for y: 169
+root - DEBUG - Fuel needed so far is: 20872 and remaining fuel to calculate is 54
+root - DEBUG - Calculating for y: 54
+root - DEBUG - Fuel needed so far is: 20888 and remaining fuel to calculate is 16
+root - DEBUG - Calculating for y: 16
+root - DEBUG - Fuel needed so far is: 20891 and remaining fuel to calculate is 3
+root - DEBUG - Total fuel required for 41838 is 20891
+root - DEBUG - Total fuel required for 125521 is 62729
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:123253
+root - DEBUG - Fuel required for 123253 is 41082
+root - DEBUG - Total fuel needed so far is: 4492403
+root - DEBUG - We need to calculate fuel needed for fuel amount: 41082
+root - DEBUG - Calculating for y: 41082
+root - DEBUG - Fuel needed so far is: 13692 and remaining fuel to calculate is 13692
+root - DEBUG - Calculating for y: 13692
+root - DEBUG - Fuel needed so far is: 18254 and remaining fuel to calculate is 4562
+root - DEBUG - Calculating for y: 4562
+root - DEBUG - Fuel needed so far is: 19772 and remaining fuel to calculate is 1518
+root - DEBUG - Calculating for y: 1518
+root - DEBUG - Fuel needed so far is: 20276 and remaining fuel to calculate is 504
+root - DEBUG - Calculating for y: 504
+root - DEBUG - Fuel needed so far is: 20442 and remaining fuel to calculate is 166
+root - DEBUG - Calculating for y: 166
+root - DEBUG - Fuel needed so far is: 20495 and remaining fuel to calculate is 53
+root - DEBUG - Calculating for y: 53
+root - DEBUG - Fuel needed so far is: 20510 and remaining fuel to calculate is 15
+root - DEBUG - Calculating for y: 15
+root - DEBUG - Fuel needed so far is: 20513 and remaining fuel to calculate is 3
+root - DEBUG - Total fuel required for 41082 is 20513
+root - DEBUG - Total fuel required for 123253 is 61595
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:127556
+root - DEBUG - Fuel required for 127556 is 42516
+root - DEBUG - Total fuel needed so far is: 4555432
+root - DEBUG - We need to calculate fuel needed for fuel amount: 42516
+root - DEBUG - Calculating for y: 42516
+root - DEBUG - Fuel needed so far is: 14170 and remaining fuel to calculate is 14170
+root - DEBUG - Calculating for y: 14170
+root - DEBUG - Fuel needed so far is: 18891 and remaining fuel to calculate is 4721
+root - DEBUG - Calculating for y: 4721
+root - DEBUG - Fuel needed so far is: 20462 and remaining fuel to calculate is 1571
+root - DEBUG - Calculating for y: 1571
+root - DEBUG - Fuel needed so far is: 20983 and remaining fuel to calculate is 521
+root - DEBUG - Calculating for y: 521
+root - DEBUG - Fuel needed so far is: 21154 and remaining fuel to calculate is 171
+root - DEBUG - Calculating for y: 171
+root - DEBUG - Fuel needed so far is: 21209 and remaining fuel to calculate is 55
+root - DEBUG - Calculating for y: 55
+root - DEBUG - Fuel needed so far is: 21225 and remaining fuel to calculate is 16
+root - DEBUG - Calculating for y: 16
+root - DEBUG - Fuel needed so far is: 21228 and remaining fuel to calculate is 3
+root - DEBUG - Total fuel required for 42516 is 21228
+root - DEBUG - Total fuel required for 127556 is 63744
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:96458
+root - DEBUG - Fuel required for 96458 is 32150
+root - DEBUG - Total fuel needed so far is: 4608810
+root - DEBUG - We need to calculate fuel needed for fuel amount: 32150
+root - DEBUG - Calculating for y: 32150
+root - DEBUG - Fuel needed so far is: 10714 and remaining fuel to calculate is 10714
+root - DEBUG - Calculating for y: 10714
+root - DEBUG - Fuel needed so far is: 14283 and remaining fuel to calculate is 3569
+root - DEBUG - Calculating for y: 3569
+root - DEBUG - Fuel needed so far is: 15470 and remaining fuel to calculate is 1187
+root - DEBUG - Calculating for y: 1187
+root - DEBUG - Fuel needed so far is: 15863 and remaining fuel to calculate is 393
+root - DEBUG - Calculating for y: 393
+root - DEBUG - Fuel needed so far is: 15992 and remaining fuel to calculate is 129
+root - DEBUG - Calculating for y: 129
+root - DEBUG - Fuel needed so far is: 16033 and remaining fuel to calculate is 41
+root - DEBUG - Calculating for y: 41
+root - DEBUG - Fuel needed so far is: 16044 and remaining fuel to calculate is 11
+root - DEBUG - Calculating for y: 11
+root - DEBUG - Fuel needed so far is: 16045 and remaining fuel to calculate is 1
+root - DEBUG - Total fuel required for 32150 is 16045
+root - DEBUG - Total fuel required for 96458 is 48195
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:91965
+root - DEBUG - Fuel required for 91965 is 30653
+root - DEBUG - Total fuel needed so far is: 4655508
+root - DEBUG - We need to calculate fuel needed for fuel amount: 30653
+root - DEBUG - Calculating for y: 30653
+root - DEBUG - Fuel needed so far is: 10215 and remaining fuel to calculate is 10215
+root - DEBUG - Calculating for y: 10215
+root - DEBUG - Fuel needed so far is: 13618 and remaining fuel to calculate is 3403
+root - DEBUG - Calculating for y: 3403
+root - DEBUG - Fuel needed so far is: 14750 and remaining fuel to calculate is 1132
+root - DEBUG - Calculating for y: 1132
+root - DEBUG - Fuel needed so far is: 15125 and remaining fuel to calculate is 375
+root - DEBUG - Calculating for y: 375
+root - DEBUG - Fuel needed so far is: 15248 and remaining fuel to calculate is 123
+root - DEBUG - Calculating for y: 123
+root - DEBUG - Fuel needed so far is: 15287 and remaining fuel to calculate is 39
+root - DEBUG - Calculating for y: 39
+root - DEBUG - Fuel needed so far is: 15298 and remaining fuel to calculate is 11
+root - DEBUG - Calculating for y: 11
+root - DEBUG - Fuel needed so far is: 15299 and remaining fuel to calculate is 1
+root - DEBUG - Total fuel required for 30653 is 15299
+root - DEBUG - Total fuel required for 91965 is 45952
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:73924
+root - DEBUG - Fuel required for 73924 is 24639
+root - DEBUG - Total fuel needed so far is: 4695446
+root - DEBUG - We need to calculate fuel needed for fuel amount: 24639
+root - DEBUG - Calculating for y: 24639
+root - DEBUG - Fuel needed so far is: 8211 and remaining fuel to calculate is 8211
+root - DEBUG - Calculating for y: 8211
+root - DEBUG - Fuel needed so far is: 10946 and remaining fuel to calculate is 2735
+root - DEBUG - Calculating for y: 2735
+root - DEBUG - Fuel needed so far is: 11855 and remaining fuel to calculate is 909
+root - DEBUG - Calculating for y: 909
+root - DEBUG - Fuel needed so far is: 12156 and remaining fuel to calculate is 301
+root - DEBUG - Calculating for y: 301
+root - DEBUG - Fuel needed so far is: 12254 and remaining fuel to calculate is 98
+root - DEBUG - Calculating for y: 98
+root - DEBUG - Fuel needed so far is: 12284 and remaining fuel to calculate is 30
+root - DEBUG - Calculating for y: 30
+root - DEBUG - Fuel needed so far is: 12292 and remaining fuel to calculate is 8
+root - DEBUG - Calculating for y: 8
+root - DEBUG - Fuel needed so far is: 12292 and remaining fuel to calculate is 0
+root - DEBUG - Total fuel required for 24639 is 12292
+root - DEBUG - Total fuel required for 73924 is 36931
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:95176
+root - DEBUG - Fuel required for 95176 is 31723
+root - DEBUG - Total fuel needed so far is: 4739461
+root - DEBUG - We need to calculate fuel needed for fuel amount: 31723
+root - DEBUG - Calculating for y: 31723
+root - DEBUG - Fuel needed so far is: 10572 and remaining fuel to calculate is 10572
+root - DEBUG - Calculating for y: 10572
+root - DEBUG - Fuel needed so far is: 14094 and remaining fuel to calculate is 3522
+root - DEBUG - Calculating for y: 3522
+root - DEBUG - Fuel needed so far is: 15266 and remaining fuel to calculate is 1172
+root - DEBUG - Calculating for y: 1172
+root - DEBUG - Fuel needed so far is: 15654 and remaining fuel to calculate is 388
+root - DEBUG - Calculating for y: 388
+root - DEBUG - Fuel needed so far is: 15781 and remaining fuel to calculate is 127
+root - DEBUG - Calculating for y: 127
+root - DEBUG - Fuel needed so far is: 15821 and remaining fuel to calculate is 40
+root - DEBUG - Calculating for y: 40
+root - DEBUG - Fuel needed so far is: 15832 and remaining fuel to calculate is 11
+root - DEBUG - Calculating for y: 11
+root - DEBUG - Fuel needed so far is: 15833 and remaining fuel to calculate is 1
+root - DEBUG - Total fuel required for 31723 is 15833
+root - DEBUG - Total fuel required for 95176 is 47556
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:87540
+root - DEBUG - Fuel required for 87540 is 29178
+root - DEBUG - Total fuel needed so far is: 4784472
+root - DEBUG - We need to calculate fuel needed for fuel amount: 29178
+root - DEBUG - Calculating for y: 29178
+root - DEBUG - Fuel needed so far is: 9724 and remaining fuel to calculate is 9724
+root - DEBUG - Calculating for y: 9724
+root - DEBUG - Fuel needed so far is: 12963 and remaining fuel to calculate is 3239
+root - DEBUG - Calculating for y: 3239
+root - DEBUG - Fuel needed so far is: 14040 and remaining fuel to calculate is 1077
+root - DEBUG - Calculating for y: 1077
+root - DEBUG - Fuel needed so far is: 14397 and remaining fuel to calculate is 357
+root - DEBUG - Calculating for y: 357
+root - DEBUG - Fuel needed so far is: 14514 and remaining fuel to calculate is 117
+root - DEBUG - Calculating for y: 117
+root - DEBUG - Fuel needed so far is: 14551 and remaining fuel to calculate is 37
+root - DEBUG - Calculating for y: 37
+root - DEBUG - Fuel needed so far is: 14561 and remaining fuel to calculate is 10
+root - DEBUG - Calculating for y: 10
+root - DEBUG - Fuel needed so far is: 14562 and remaining fuel to calculate is 1
+root - DEBUG - Total fuel required for 29178 is 14562
+root - DEBUG - Total fuel required for 87540 is 43740
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:122083
+root - DEBUG - Fuel required for 122083 is 40692
+root - DEBUG - Total fuel needed so far is: 4839726
+root - DEBUG - We need to calculate fuel needed for fuel amount: 40692
+root - DEBUG - Calculating for y: 40692
+root - DEBUG - Fuel needed so far is: 13562 and remaining fuel to calculate is 13562
+root - DEBUG - Calculating for y: 13562
+root - DEBUG - Fuel needed so far is: 18080 and remaining fuel to calculate is 4518
+root - DEBUG - Calculating for y: 4518
+root - DEBUG - Fuel needed so far is: 19584 and remaining fuel to calculate is 1504
+root - DEBUG - Calculating for y: 1504
+root - DEBUG - Fuel needed so far is: 20083 and remaining fuel to calculate is 499
+root - DEBUG - Calculating for y: 499
+root - DEBUG - Fuel needed so far is: 20247 and remaining fuel to calculate is 164
+root - DEBUG - Calculating for y: 164
+root - DEBUG - Fuel needed so far is: 20299 and remaining fuel to calculate is 52
+root - DEBUG - Calculating for y: 52
+root - DEBUG - Fuel needed so far is: 20314 and remaining fuel to calculate is 15
+root - DEBUG - Calculating for y: 15
+root - DEBUG - Fuel needed so far is: 20317 and remaining fuel to calculate is 3
+root - DEBUG - Total fuel required for 40692 is 20317
+root - DEBUG - Total fuel required for 122083 is 61009
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:146013
+root - DEBUG - Fuel required for 146013 is 48669
+root - DEBUG - Total fuel needed so far is: 4908712
+root - DEBUG - We need to calculate fuel needed for fuel amount: 48669
+root - DEBUG - Calculating for y: 48669
+root - DEBUG - Fuel needed so far is: 16221 and remaining fuel to calculate is 16221
+root - DEBUG - Calculating for y: 16221
+root - DEBUG - Fuel needed so far is: 21626 and remaining fuel to calculate is 5405
+root - DEBUG - Calculating for y: 5405
+root - DEBUG - Fuel needed so far is: 23425 and remaining fuel to calculate is 1799
+root - DEBUG - Calculating for y: 1799
+root - DEBUG - Fuel needed so far is: 24022 and remaining fuel to calculate is 597
+root - DEBUG - Calculating for y: 597
+root - DEBUG - Fuel needed so far is: 24219 and remaining fuel to calculate is 197
+root - DEBUG - Calculating for y: 197
+root - DEBUG - Fuel needed so far is: 24282 and remaining fuel to calculate is 63
+root - DEBUG - Calculating for y: 63
+root - DEBUG - Fuel needed so far is: 24301 and remaining fuel to calculate is 19
+root - DEBUG - Calculating for y: 19
+root - DEBUG - Fuel needed so far is: 24305 and remaining fuel to calculate is 4
+root - DEBUG - Total fuel required for 48669 is 24305
+root - DEBUG - Total fuel required for 146013 is 72974
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:67761
+root - DEBUG - Fuel required for 67761 is 22585
+root - DEBUG - Total fuel needed so far is: 4955602
+root - DEBUG - We need to calculate fuel needed for fuel amount: 22585
+root - DEBUG - Calculating for y: 22585
+root - DEBUG - Fuel needed so far is: 7526 and remaining fuel to calculate is 7526
+root - DEBUG - Calculating for y: 7526
+root - DEBUG - Fuel needed so far is: 10032 and remaining fuel to calculate is 2506
+root - DEBUG - Calculating for y: 2506
+root - DEBUG - Fuel needed so far is: 10865 and remaining fuel to calculate is 833
+root - DEBUG - Calculating for y: 833
+root - DEBUG - Fuel needed so far is: 11140 and remaining fuel to calculate is 275
+root - DEBUG - Calculating for y: 275
+root - DEBUG - Fuel needed so far is: 11229 and remaining fuel to calculate is 89
+root - DEBUG - Calculating for y: 89
+root - DEBUG - Fuel needed so far is: 11256 and remaining fuel to calculate is 27
+root - DEBUG - Calculating for y: 27
+root - DEBUG - Fuel needed so far is: 11263 and remaining fuel to calculate is 7
+root - DEBUG - Calculating for y: 7
+root - DEBUG - Fuel needed so far is: 11263 and remaining fuel to calculate is 0
+root - DEBUG - Total fuel required for 22585 is 11263
+root - DEBUG - Total fuel required for 67761 is 33848
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:100413
+root - DEBUG - Fuel required for 100413 is 33469
+root - DEBUG - Total fuel needed so far is: 5000334
+root - DEBUG - We need to calculate fuel needed for fuel amount: 33469
+root - DEBUG - Calculating for y: 33469
+root - DEBUG - Fuel needed so far is: 11154 and remaining fuel to calculate is 11154
+root - DEBUG - Calculating for y: 11154
+root - DEBUG - Fuel needed so far is: 14870 and remaining fuel to calculate is 3716
+root - DEBUG - Calculating for y: 3716
+root - DEBUG - Fuel needed so far is: 16106 and remaining fuel to calculate is 1236
+root - DEBUG - Calculating for y: 1236
+root - DEBUG - Fuel needed so far is: 16516 and remaining fuel to calculate is 410
+root - DEBUG - Calculating for y: 410
+root - DEBUG - Fuel needed so far is: 16650 and remaining fuel to calculate is 134
+root - DEBUG - Calculating for y: 134
+root - DEBUG - Fuel needed so far is: 16692 and remaining fuel to calculate is 42
+root - DEBUG - Calculating for y: 42
+root - DEBUG - Fuel needed so far is: 16704 and remaining fuel to calculate is 12
+root - DEBUG - Calculating for y: 12
+root - DEBUG - Fuel needed so far is: 16706 and remaining fuel to calculate is 2
+root - DEBUG - Total fuel required for 33469 is 16706
+root - DEBUG - Total fuel required for 100413 is 50175
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:145994
+root - DEBUG - Fuel required for 145994 is 48662
+root - DEBUG - Total fuel needed so far is: 5065702
+root - DEBUG - We need to calculate fuel needed for fuel amount: 48662
+root - DEBUG - Calculating for y: 48662
+root - DEBUG - Fuel needed so far is: 16218 and remaining fuel to calculate is 16218
+root - DEBUG - Calculating for y: 16218
+root - DEBUG - Fuel needed so far is: 21622 and remaining fuel to calculate is 5404
+root - DEBUG - Calculating for y: 5404
+root - DEBUG - Fuel needed so far is: 23421 and remaining fuel to calculate is 1799
+root - DEBUG - Calculating for y: 1799
+root - DEBUG - Fuel needed so far is: 24018 and remaining fuel to calculate is 597
+root - DEBUG - Calculating for y: 597
+root - DEBUG - Fuel needed so far is: 24215 and remaining fuel to calculate is 197
+root - DEBUG - Calculating for y: 197
+root - DEBUG - Fuel needed so far is: 24278 and remaining fuel to calculate is 63
+root - DEBUG - Calculating for y: 63
+root - DEBUG - Fuel needed so far is: 24297 and remaining fuel to calculate is 19
+root - DEBUG - Calculating for y: 19
+root - DEBUG - Fuel needed so far is: 24301 and remaining fuel to calculate is 4
+root - DEBUG - Total fuel required for 48662 is 24301
+root - DEBUG - Total fuel required for 145994 is 72963
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:149450
+root - DEBUG - Fuel required for 149450 is 49814
+root - DEBUG - Total fuel needed so far is: 5139817
+root - DEBUG - We need to calculate fuel needed for fuel amount: 49814
+root - DEBUG - Calculating for y: 49814
+root - DEBUG - Fuel needed so far is: 16602 and remaining fuel to calculate is 16602
+root - DEBUG - Calculating for y: 16602
+root - DEBUG - Fuel needed so far is: 22134 and remaining fuel to calculate is 5532
+root - DEBUG - Calculating for y: 5532
+root - DEBUG - Fuel needed so far is: 23976 and remaining fuel to calculate is 1842
+root - DEBUG - Calculating for y: 1842
+root - DEBUG - Fuel needed so far is: 24588 and remaining fuel to calculate is 612
+root - DEBUG - Calculating for y: 612
+root - DEBUG - Fuel needed so far is: 24790 and remaining fuel to calculate is 202
+root - DEBUG - Calculating for y: 202
+root - DEBUG - Fuel needed so far is: 24855 and remaining fuel to calculate is 65
+root - DEBUG - Calculating for y: 65
+root - DEBUG - Fuel needed so far is: 24874 and remaining fuel to calculate is 19
+root - DEBUG - Calculating for y: 19
+root - DEBUG - Fuel needed so far is: 24878 and remaining fuel to calculate is 4
+root - DEBUG - Total fuel required for 49814 is 24878
+root - DEBUG - Total fuel required for 149450 is 74692
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:94330
+root - DEBUG - Fuel required for 94330 is 31441
+root - DEBUG - Total fuel needed so far is: 5196136
+root - DEBUG - We need to calculate fuel needed for fuel amount: 31441
+root - DEBUG - Calculating for y: 31441
+root - DEBUG - Fuel needed so far is: 10478 and remaining fuel to calculate is 10478
+root - DEBUG - Calculating for y: 10478
+root - DEBUG - Fuel needed so far is: 13968 and remaining fuel to calculate is 3490
+root - DEBUG - Calculating for y: 3490
+root - DEBUG - Fuel needed so far is: 15129 and remaining fuel to calculate is 1161
+root - DEBUG - Calculating for y: 1161
+root - DEBUG - Fuel needed so far is: 15514 and remaining fuel to calculate is 385
+root - DEBUG - Calculating for y: 385
+root - DEBUG - Fuel needed so far is: 15640 and remaining fuel to calculate is 126
+root - DEBUG - Calculating for y: 126
+root - DEBUG - Fuel needed so far is: 15680 and remaining fuel to calculate is 40
+root - DEBUG - Calculating for y: 40
+root - DEBUG - Fuel needed so far is: 15691 and remaining fuel to calculate is 11
+root - DEBUG - Calculating for y: 11
+root - DEBUG - Fuel needed so far is: 15692 and remaining fuel to calculate is 1
+root - DEBUG - Total fuel required for 31441 is 15692
+root - DEBUG - Total fuel required for 94330 is 47133
+root - DEBUG - ===================================================================
+root - DEBUG - Calculating fuel required for:112824
+root - DEBUG - Fuel required for 112824 is 37606
+root - DEBUG - Total fuel needed so far is: 5249434
+root - DEBUG - We need to calculate fuel needed for fuel amount: 37606
+root - DEBUG - Calculating for y: 37606
+root - DEBUG - Fuel needed so far is: 12533 and remaining fuel to calculate is 12533
+root - DEBUG - Calculating for y: 12533
+root - DEBUG - Fuel needed so far is: 16708 and remaining fuel to calculate is 4175
+root - DEBUG - Calculating for y: 4175
+root - DEBUG - Fuel needed so far is: 18097 and remaining fuel to calculate is 1389
+root - DEBUG - Calculating for y: 1389
+root - DEBUG - Fuel needed so far is: 18558 and remaining fuel to calculate is 461
+root - DEBUG - Calculating for y: 461
+root - DEBUG - Fuel needed so far is: 18709 and remaining fuel to calculate is 151
+root - DEBUG - Calculating for y: 151
+root - DEBUG - Fuel needed so far is: 18757 and remaining fuel to calculate is 48
+root - DEBUG - Calculating for y: 48
+root - DEBUG - Fuel needed so far is: 18771 and remaining fuel to calculate is 14
+root - DEBUG - Calculating for y: 14
+root - DEBUG - Fuel needed so far is: 18773 and remaining fuel to calculate is 2
+root - DEBUG - Total fuel required for 37606 is 18773
+root - DEBUG - Total fuel required for 112824 is 56379
+root - DEBUG - ===================================================================
+root - DEBUG - Total fuel requirement is: 5268207
